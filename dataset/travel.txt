@@ -1,0 +1,3889 @@
+0	244332	Los Angeles	San Diego
+1	244332	Los Angeles	Austin
+2	221541	Los Angeles	San Diego
+3	118639	New York	Austin
+4	103893	Washington, D.C.	Austin
+5	241852	Baltimore	New York
+6	206873	New York	Dallas
+7	39327	New York	Portland
+8	235389	Los Angeles	New York
+9	6797	Los Angeles	Austin
+10	6797	Los Angeles	Chicago
+11	59340	Philadelphia	Los Angeles
+12	46132	New York	Dallas
+13	6799	Boston	Los Angeles
+14	52660	Washington, D.C.	New York
+15	56124	New York	Boston
+16	177314	New York	Chicago
+17	74611	San Francisco	New York
+18	126878	New York	Miami-Dade
+19	276	San Francisco	Seattle
+20	117259	Boston	Miami-Dade
+21	227779	New York	Washington, D.C.
+22	193777	Washington, D.C.	Boston
+23	22480	Washington, D.C.	Philadelphia
+24	259046	Dallas	Orleans
+25	221962	New York	Austin
+26	52667	Los Angeles	San Francisco
+27	52667	Los Angeles	Washington, D.C.
+28	52667	Los Angeles	San Diego
+29	168882	San Francisco	Seattle
+30	49567	New York	Seattle
+31	84120	Los Angeles	New York
+32	50213	Los Angeles	New York
+33	64452	New York	Los Angeles
+34	69176	Los Angeles	New York
+35	152606	Baltimore	New York
+36	24088	Los Angeles	Miami-Dade
+37	24088	Los Angeles	Philadelphia
+38	138514	Los Angeles	New York
+39	138514	Los Angeles	Washington, D.C.
+40	164410	New York	Austin
+41	116128	Houston	Los Angeles
+42	162101	New York	Orleans
+43	193828	Miami-Dade	New York
+44	90316	New York	Austin
+45	90316	New York	Miami-Dade
+46	209147	New York	Austin
+47	14623	San Francisco	San Diego
+48	38645	Atlanta	Chicago
+49	38645	Atlanta	Washington, D.C.
+50	31503	Seattle	San Francisco
+51	145687	Atlanta	New York
+52	108829	New York	Chicago
+53	33508	Boston	Los Angeles
+54	21479	Los Angeles	Atlanta
+55	20258	San Diego	San Francisco
+56	252639	New York	Washington, D.C.
+57	20255	Chicago	New York
+58	40965	Franklin	New York
+59	40963	New York	Chicago
+60	29817	New York	Austin
+61	188505	Baltimore	Orleans
+62	57592	New York	Miami-Dade
+63	57592	New York	Washington, D.C.
+64	59030	Minneapolis	New York
+65	7188	Chicago	San Diego
+66	7183	New York	Miami-Dade
+67	72700	New York	Chicago
+68	145439	San Francisco	Honolulu
+69	145439	San Francisco	Los Angeles
+70	66507	Boston	Washington, D.C.
+71	174350	Franklin	Chicago
+72	4849	Dallas	Orleans
+73	170451	Los Angeles	Austin
+74	259729	New York	Austin
+75	171102	Washington, D.C.	Philadelphia
+76	171102	Washington, D.C.	Chicago
+77	55335	Los Angeles	Miami-Dade
+78	170454	Los Angeles	New York
+79	4598	Los Angeles	Miami-Dade
+80	85171	Los Angeles	Chicago
+81	244811	New York	Honolulu
+82	154714	New York	Minneapolis
+83	92087	San Diego	New York
+84	179922	Los Angeles	New York
+85	60928	Chicago	New York
+86	241446	Washington, D.C.	Austin
+87	150165	Seattle	Los Angeles
+88	16065	Boston	Miami-Dade
+89	16066	Washington, D.C.	Orleans
+90	32227	New York	San Francisco
+91	32227	New York	Chicago
+92	32227	New York	Boston
+93	32227	New York	Philadelphia
+94	13536	Boston	Los Angeles
+95	207618	Chicago	Washington, D.C.
+96	43681	Washington, D.C.	New York
+97	19565	Los Angeles	Honolulu
+98	122609	New York	Austin
+99	70788	Franklin	Austin
+100	237739	Los Angeles	San Francisco
+101	11990	New York	Miami-Dade
+102	74227	Seattle	New York
+103	74220	Dallas	Austin
+104	248122	New York	Los Angeles
+105	134152	Los Angeles	San Diego
+106	134158	Chicago	San Diego
+107	36279	New York	Washington, D.C.
+108	36279	New York	Honolulu
+109	252842	Miami-Dade	New York
+110	251389	San Francisco	New York
+111	6212	San Diego	New York
+112	139055	New York	Atlanta
+113	139055	New York	San Francisco
+114	102361	San Francisco	Chicago
+115	196645	New York	Baltimore
+116	41170	Washington, D.C.	Miami-Dade
+117	107701	Chicago	Orleans
+118	57885	New York	Atlanta
+119	57885	New York	San Francisco
+120	57881	Los Angeles	New York
+121	223784	Washington, D.C.	Chicago
+122	78477	Houston	Los Angeles
+123	49798	San Francisco	Orleans
+124	143698	Baltimore	New York
+125	17066	Dallas	New York
+126	11919	New York	Austin
+127	11919	New York	Seattle
+128	137183	Washington, D.C.	Philadelphia
+129	137180	New York	San Francisco
+130	136857	San Francisco	San Diego
+131	136857	San Francisco	Los Angeles
+132	197664	New York	Austin
+133	17534	Chicago	New York
+134	252154	Minneapolis	New York
+135	168520	New York	Austin
+136	187082	Franklin	Chicago
+137	15161	New York	Minneapolis
+138	50884	New York	Los Angeles
+139	69494	New York	Los Angeles
+140	178719	Los Angeles	San Diego
+141	160470	New York	Los Angeles
+142	160470	New York	Chicago
+143	165116	Miami-Dade	New York
+144	238466	San Francisco	Honolulu
+145	60959	New York	Baltimore
+146	60959	New York	Portland
+147	183149	New York	Philadelphia
+148	17924	Boston	Chicago
+149	11562	Chicago	Orleans
+150	11562	Chicago	Austin
+151	188771	Honolulu	San Francisco
+152	10252	Seattle	San Francisco
+153	194414	Washington, D.C.	Philadelphia
+154	194414	Washington, D.C.	Orleans
+155	245116	Seattle	San Diego
+156	25049	Houston	New York
+157	25049	Houston	San Francisco
+158	92743	Los Angeles	San Diego
+159	96625	Atlanta	New York
+160	104480	Los Angeles	San Diego
+161	117505	New York	Minneapolis
+162	257	Los Angeles	Washington, D.C.
+163	97685	New York	Minneapolis
+164	221607	Washington, D.C.	Austin
+165	159376	San Francisco	San Diego
+166	152992	New York	San Francisco
+167	152992	New York	Miami-Dade
+168	150621	Chicago	San Diego
+169	216361	New York	Orleans
+170	216361	New York	Portland
+171	154291	Houston	San Francisco
+172	81995	Washington, D.C.	Chicago
+173	128143	New York	Atlanta
+174	76598	Baltimore	New York
+175	208572	New York	Washington, D.C.
+176	60295	New York	San Diego
+177	204442	Chicago	New York
+178	106398	Chicago	Seattle
+179	106391	New York	Austin
+180	160186	San Francisco	New York
+181	160186	San Francisco	San Diego
+182	190171	New York	San Francisco
+183	66646	Los Angeles	Washington, D.C.
+184	66646	Los Angeles	San Francisco
+185	66646	Los Angeles	Miami-Dade
+186	87290	New York	Chicago
+187	123946	Houston	San Francisco
+188	123945	Milwaukee	New York
+189	112060	Chicago	New York
+190	41540	New York	Austin
+191	27802	Dallas	Orleans
+192	27803	Milwaukee	New York
+193	94568	Los Angeles	Washington, D.C.
+194	38190	New York	Washington, D.C.
+195	38190	New York	Austin
+196	38190	New York	Boston
+197	106700	Austin	Los Angeles
+198	252389	Seattle	Portland
+199	29747	New York	Chicago
+200	111438	Franklin	Austin
+201	23076	Dallas	Austin
+202	23076	Dallas	New York
+203	60437	New York	Austin
+204	161637	Philadelphia	New York
+205	15114	Miami-Dade	New York
+206	109465	New York	Los Angeles
+207	25899	Los Angeles	San Diego
+208	191948	San Francisco	New York
+209	78647	New York	San Francisco
+210	129319	Washington, D.C.	Los Angeles
+211	39087	San Francisco	New York
+212	95968	New York	Washington, D.C.
+213	207098	Milwaukee	New York
+214	205180	Franklin	New York
+215	189341	Los Angeles	New York
+216	168964	Austin	San Francisco
+217	104332	Austin	Los Angeles
+218	60771	Los Angeles	San Diego
+219	214515	New York	Chicago
+220	214515	New York	San Francisco
+221	81568	Washington, D.C.	New York
+222	13674	San Francisco	New York
+223	114425	Washington, D.C.	San Francisco
+224	124810	Atlanta	Miami-Dade
+225	56669	Los Angeles	San Francisco
+226	2189	San Francisco	New York
+227	100936	Philadelphia	Orleans
+228	128442	Los Angeles	Austin
+229	28166	New York	Chicago
+230	235021	New York	Boston
+231	15435	Boston	New York
+232	52699	New York	Chicago
+233	246438	Houston	New York
+234	153451	Chicago	Austin
+235	146661	Miami-Dade	Los Angeles
+236	233973	San Francisco	New York
+237	203389	Minneapolis	Chicago
+238	135775	New York	Baltimore
+239	93008	Houston	Los Angeles
+240	45637	Chicago	Milwaukee
+241	39802	Boston	New York
+242	81465	New York	Seattle
+243	163774	San Francisco	New York
+244	16916	New York	Los Angeles
+245	121024	Houston	Orleans
+246	221258	Los Angeles	New York
+247	37367	Minneapolis	Chicago
+248	54699	Atlanta	Orleans
+249	238350	New York	Los Angeles
+250	50778	Los Angeles	San Francisco
+251	60293	Washington, D.C.	New York
+252	56948	New York	Minneapolis
+253	56948	New York	Atlanta
+254	56948	New York	San Francisco
+255	157735	New York	Austin
+256	96987	San Diego	Los Angeles
+257	91612	New York	Chicago
+258	68325	New York	Dallas
+259	83150	New York	San Diego
+260	92839	Los Angeles	New York
+261	54037	New York	Orleans
+262	168549	Los Angeles	Honolulu
+263	14452	Philadelphia	Baltimore
+264	37981	New York	Minneapolis
+265	28409	Los Angeles	New York
+266	17984	San Diego	New York
+267	17984	San Diego	San Francisco
+268	183380	New York	Austin
+269	169943	Minneapolis	Chicago
+270	238444	Washington, D.C.	Chicago
+271	50863	Seattle	San Diego
+272	35050	New York	Seattle
+273	118549	New York	San Francisco
+274	160455	Chicago	New York
+275	244432	Chicago	Milwaukee
+276	166422	San Francisco	Washington, D.C.
+277	245085	San Francisco	New York
+278	253172	Los Angeles	San Diego
+279	207581	New York	Orleans
+280	207581	New York	Houston
+281	206527	San Francisco	Los Angeles
+282	206527	San Francisco	Austin
+283	11442	New York	Chicago
+284	262079	Los Angeles	San Francisco
+285	55784	New York	Chicago
+286	55784	New York	Miami-Dade
+287	131083	Miami-Dade	New York
+288	224576	Dallas	Orleans
+289	224576	Dallas	Austin
+290	100235	Chicago	New York
+291	32961	Los Angeles	New York
+292	236	Baltimore	Philadelphia
+293	43835	New York	Dallas
+294	43835	New York	Los Angeles
+295	25712	New York	Chicago
+296	250586	New York	Washington, D.C.
+297	81172	Chicago	San Diego
+298	57352	Washington, D.C.	Orleans
+299	65549	Los Angeles	Austin
+300	75894	New York	Los Angeles
+301	75894	New York	Chicago
+302	149102	San Francisco	Seattle
+303	31044	Washington, D.C.	Miami-Dade
+304	172641	San Francisco	Seattle
+305	43163	New York	Seattle
+306	64942	Washington, D.C.	Boston
+307	167791	Dallas	Austin
+308	191318	New York	Chicago
+309	60440	New York	Philadelphia
+310	60440	New York	Los Angeles
+311	53959	New York	Los Angeles
+312	18567	San Diego	Los Angeles
+313	118624	New York	San Francisco
+314	118624	New York	Miami-Dade
+315	80441	Chicago	Los Angeles
+316	80441	Chicago	Washington, D.C.
+317	80441	Chicago	New York
+318	85122	New York	Miami-Dade
+319	202528	New York	Franklin
+320	85659	Los Angeles	San Diego
+321	149225	Philadelphia	Baltimore
+322	146730	Los Angeles	San Francisco
+323	99771	San Diego	Washington, D.C.
+324	159999	New York	Los Angeles
+325	33895	Austin	New York
+326	31494	San Francisco	Honolulu
+327	28097	Los Angeles	San Diego
+328	196418	Washington, D.C.	Chicago
+329	189144	New York	Honolulu
+330	26520	New York	Minneapolis
+331	26520	New York	Philadelphia
+332	26520	New York	Seattle
+333	26520	New York	Atlanta
+334	244855	Chicago	New York
+335	199905	New York	Austin
+336	199905	New York	Orleans
+337	266639	Atlanta	Miami-Dade
+338	28677	New York	San Francisco
+339	28677	New York	Chicago
+340	81546	New York	Orleans
+341	145388	Los Angeles	Chicago
+342	162123	Los Angeles	San Diego
+343	258272	Franklin	Austin
+344	89219	San Francisco	Orleans
+345	11242	New York	Chicago
+346	11242	New York	Minneapolis
+347	181448	New York	Atlanta
+348	51494	Chicago	New York
+349	16024	San Diego	Los Angeles
+350	17379	Washington, D.C.	Boston
+351	79994	New York	Miami-Dade
+352	52366	Philadelphia	Orleans
+353	151830	San Francisco	Austin
+354	25364	Los Angeles	Atlanta
+355	104589	San Francisco	San Diego
+356	104589	San Francisco	New York
+357	93392	New York	Austin
+358	51142	New York	Miami-Dade
+359	205073	Seattle	Portland
+360	248167	New York	Austin
+361	148444	New York	Miami-Dade
+362	98144	Washington, D.C.	Boston
+363	98411	New York	Austin
+364	218670	San Francisco	Los Angeles
+365	70769	New York	Orleans
+366	166353	San Diego	San Francisco
+367	4887	San Francisco	Seattle
+368	4887	San Francisco	Austin
+369	9175	New York	Chicago
+370	39826	Los Angeles	Seattle
+371	53095	San Francisco	New York
+372	119584	Los Angeles	Orleans
+373	30593	San Diego	New York
+374	97624	Washington, D.C.	Austin
+375	118982	Washington, D.C.	New York
+376	90147	Milwaukee	New York
+377	53239	New York	Miami-Dade
+378	53239	New York	Franklin
+379	53239	New York	Orleans
+380	53239	New York	Los Angeles
+381	147036	Minneapolis	Chicago
+382	149716	Philadelphia	Washington, D.C.
+383	21465	Baltimore	Philadelphia
+384	134114	Milwaukee	Chicago
+385	45612	Boston	Miami-Dade
+386	10928	Dallas	Austin
+387	142385	Miami-Dade	New York
+388	172391	Houston	Los Angeles
+389	78563	New York	San Francisco
+390	221813	Washington, D.C.	Chicago
+391	221813	Washington, D.C.	Philadelphia
+392	137362	New York	San Diego
+393	209974	New York	Miami-Dade
+394	28462	Los Angeles	Austin
+395	33976	Seattle	San Francisco
+396	3009	New York	Los Angeles
+397	3009	New York	Boston
+398	18353	New York	Atlanta
+399	256067	New York	Austin
+400	169966	San Diego	Honolulu
+401	114684	Chicago	Seattle
+402	252998	New York	Orleans
+403	188157	San Francisco	Washington, D.C.
+404	188157	San Francisco	Portland
+405	260830	New York	Boston
+406	196576	Chicago	San Diego
+407	259944	New York	Miami-Dade
+408	188731	New York	San Francisco
+409	118694	Austin	Los Angeles
+410	28282	Chicago	Washington, D.C.
+411	130917	Los Angeles	San Francisco
+412	48873	Chicago	Austin
+413	36632	Miami-Dade	New York
+414	12463	San Diego	Los Angeles
+415	3915	New York	Washington, D.C.
+416	73476	Chicago	Washington, D.C.
+417	52196	San Francisco	Washington, D.C.
+418	119614	New York	Austin
+419	115944	New York	Austin
+420	9928	Seattle	San Diego
+421	9923	Los Angeles	San Diego
+422	166793	Houston	Austin
+423	231008	Philadelphia	New York
+424	6087	Milwaukee	Chicago
+425	154125	New York	Chicago
+426	150663	Baltimore	Orleans
+427	165847	San Francisco	Los Angeles
+428	165842	Dallas	Austin
+429	99973	San Francisco	San Diego
+430	109180	New York	Austin
+431	138920	New York	San Francisco
+432	57370	San Francisco	Honolulu
+433	190356	Seattle	San Francisco
+434	52557	Los Angeles	San Diego
+435	60421	Atlanta	San Francisco
+436	4414	New York	Philadelphia
+437	4414	New York	Orleans
+438	915	Minneapolis	New York
+439	106683	Boston	New York
+440	36136	New York	Chicago
+441	260107	New York	Miami-Dade
+442	254699	San Francisco	New York
+443	180577	New York	Washington, D.C.
+444	128186	Houston	Austin
+445	27590	New York	Los Angeles
+446	27590	New York	Austin
+447	70355	New York	Chicago
+448	167914	San Diego	San Francisco
+449	167917	Los Angeles	San Diego
+450	167917	Los Angeles	San Francisco
+451	29707	San Diego	Honolulu
+452	18504	Miami-Dade	New York
+453	37089	Chicago	Los Angeles
+454	172870	Portland	Seattle
+455	34288	New York	Honolulu
+456	504	Chicago	New York
+457	164648	San Diego	Los Angeles
+458	149522	New York	Chicago
+459	149522	New York	Washington, D.C.
+460	108887	San Francisco	Austin
+461	108887	San Francisco	New York
+462	78171	Los Angeles	New York
+463	144018	New York	Minneapolis
+464	159770	Los Angeles	Austin
+465	88500	Miami-Dade	New York
+466	109681	Chicago	Seattle
+467	2003	Philadelphia	Baltimore
+468	50304	New York	Philadelphia
+469	50304	New York	Minneapolis
+470	47272	Philadelphia	Baltimore
+471	1448	Atlanta	New York
+472	245123	Chicago	Austin
+473	160438	New York	Minneapolis
+474	79557	San Francisco	Miami-Dade
+475	79557	Los Angeles	Austin
+476	259660	Milwaukee	New York
+477	239147	Dallas	Orleans
+478	77047	New York	Orleans
+479	73547	New York	Austin
+480	4789	New York	Chicago
+481	56133	Houston	New York
+482	225010	New York	Miami-Dade
+483	12325	New York	Houston
+484	235061	San Diego	San Francisco
+485	181646	San Francisco	New York
+486	51167	Los Angeles	Seattle
+487	23961	Dallas	Orleans
+488	128405	Austin	New York
+489	253329	Boston	New York
+490	153413	New York	Austin
+491	154375	San Francisco	Seattle
+492	57949	New York	Los Angeles
+493	57949	New York	Orleans
+494	57949	New York	Miami-Dade
+495	191296	San Francisco	New York
+496	233939	Washington, D.C.	New York
+497	205231	San Francisco	New York
+498	233936	Chicago	San Francisco
+499	108590	New York	Austin
+500	25139	Los Angeles	San Diego
+501	191122	Austin	New York
+502	191122	Austin	Los Angeles
+503	16401	Los Angeles	Philadelphia
+504	16959	New York	Los Angeles
+505	6277	New York	Seattle
+506	6277	New York	Austin
+507	6277	New York	Los Angeles
+508	244	Los Angeles	San Francisco
+509	173427	Los Angeles	San Francisco
+510	61928	New York	Washington, D.C.
+511	122918	Boston	Miami-Dade
+512	122910	Seattle	Portland
+513	168938	Chicago	New York
+514	21440	Chicago	Miami-Dade
+515	21337	Dallas	Orleans
+516	21337	Dallas	New York
+517	200465	New York	Miami-Dade
+518	49261	Miami-Dade	New York
+519	121066	New York	Orleans
+520	49269	Los Angeles	San Diego
+521	3452	Milwaukee	New York
+522	255772	Boston	New York
+523	13799	Los Angeles	San Diego
+524	44541	Chicago	New York
+525	37594	New York	Seattle
+526	179649	Los Angeles	San Francisco
+527	89445	Chicago	Orleans
+528	179138	New York	Miami-Dade
+529	179138	New York	Chicago
+530	238156	New York	Miami-Dade
+531	207163	Chicago	Austin
+532	181626	Chicago	Austin
+533	87062	Los Angeles	Chicago
+534	87062	Los Angeles	Seattle
+535	94935	San Francisco	Honolulu
+536	103011	New York	Miami-Dade
+537	221457	New York	Chicago
+538	111281	Los Angeles	Chicago
+539	205833	New York	San Diego
+540	137342	Los Angeles	Seattle
+541	129622	Miami-Dade	Los Angeles
+542	129622	Miami-Dade	New York
+543	156136	New York	Miami-Dade
+544	207787	New York	Washington, D.C.
+545	1307	Washington, D.C.	Miami-Dade
+546	195923	Washington, D.C.	Los Angeles
+547	6478	New York	Washington, D.C.
+548	6475	San Francisco	New York
+549	171134	New York	Chicago
+550	110889	Chicago	Los Angeles
+551	32892	Los Angeles	Boston
+552	122976	Los Angeles	Atlanta
+553	81726	Boston	Los Angeles
+554	127965	New York	San Diego
+555	143279	Honolulu	San Francisco
+556	39070	Atlanta	Austin
+557	39073	New York	Miami-Dade
+558	39075	Minneapolis	Chicago
+559	119638	Atlanta	San Francisco
+560	107494	Los Angeles	Orleans
+561	107494	Los Angeles	Miami-Dade
+562	131372	Boston	Austin
+563	22400	New York	Seattle
+564	22400	New York	Baltimore
+565	81134	Seattle	Chicago
+566	250447	Miami-Dade	Chicago
+567	25752	Chicago	New York
+568	43746	Seattle	Portland
+569	150680	Washington, D.C.	Chicago
+570	150681	Houston	Los Angeles
+571	261299	San Francisco	New York
+572	215563	Minneapolis	New York
+573	148408	Miami-Dade	New York
+574	3594	San Francisco	Los Angeles
+575	5033	New York	Austin
+576	124689	New York	Dallas
+577	13329	Austin	New York
+578	102823	Houston	Orleans
+579	125624	San Francisco	Seattle
+580	125624	San Francisco	Austin
+581	232080	Los Angeles	Chicago
+582	232080	Los Angeles	Seattle
+583	27115	New York	Austin
+584	26037	Dallas	New York
+585	146165	New York	San Francisco
+586	168008	New York	Austin
+587	134705	New York	Los Angeles
+588	44563	San Francisco	Seattle
+589	44563	San Francisco	New York
+590	59748	New York	San Francisco
+591	99008	New York	Miami-Dade
+592	121476	Miami-Dade	New York
+593	29271	Washington, D.C.	Miami-Dade
+594	176352	Chicago	Milwaukee
+595	8924	San Diego	San Francisco
+596	112629	New York	Austin
+597	264000	San Francisco	Los Angeles
+598	39517	San Francisco	San Diego
+599	174601	Atlanta	Los Angeles
+600	33745	New York	Chicago
+601	33745	New York	Honolulu
+602	1688	San Diego	Los Angeles
+603	149500	New York	Austin
+604	143029	Los Angeles	New York
+605	184113	Baltimore	Orleans
+606	115579	Dallas	Chicago
+607	33746	San Francisco	Miami-Dade
+608	33746	San Francisco	Austin
+609	67279	Houston	San Francisco
+610	229224	Chicago	Seattle
+611	184119	New York	Los Angeles
+612	184118	San Francisco	Austin
+613	117663	Miami-Dade	New York
+614	248687	Los Angeles	Boston
+615	248687	Los Angeles	Austin
+616	248687	Los Angeles	Orleans
+617	68559	New York	Los Angeles
+618	66271	Washington, D.C.	New York
+619	66271	Washington, D.C.	Chicago
+620	650	New York	Seattle
+621	24787	San Francisco	San Diego
+622	170722	New York	Philadelphia
+623	23638	Chicago	Washington, D.C.
+624	23638	Chicago	San Francisco
+625	197174	Atlanta	Washington, D.C.
+626	108354	New York	Seattle
+627	106492	New York	Austin
+628	106494	New York	Atlanta
+629	92808	Chicago	Los Angeles
+630	92807	New York	Boston
+631	14879	New York	Washington, D.C.
+632	51366	Chicago	New York
+633	39222	Philadelphia	Orleans
+634	215991	Los Angeles	Austin
+635	192069	New York	Austin
+636	124053	San Diego	Honolulu
+637	23945	New York	Los Angeles
+638	97005	San Francisco	Seattle
+639	80672	Dallas	Austin
+640	55950	San Francisco	San Diego
+641	166615	New York	Philadelphia
+642	105142	Los Angeles	New York
+643	105142	Los Angeles	San Francisco
+644	10915	New York	Chicago
+645	227880	New York	Orleans
+646	204787	Washington, D.C.	Philadelphia
+647	153997	New York	Chicago
+648	121044	New York	Los Angeles
+649	152212	New York	Portland
+650	107789	Philadelphia	New York
+651	113237	New York	San Diego
+652	166964	Los Angeles	New York
+653	166965	Atlanta	New York
+654	7804	Los Angeles	San Diego
+655	56977	Philadelphia	Chicago
+656	249918	New York	Los Angeles
+657	84770	Boston	San Diego
+658	199245	Chicago	New York
+659	199246	Miami-Dade	New York
+660	90983	New York	Philadelphia
+661	203062	San Francisco	Orleans
+662	37304	Los Angeles	Seattle
+663	163643	Miami-Dade	Los Angeles
+664	51492	Los Angeles	Boston
+665	103194	Los Angeles	New York
+666	176836	Chicago	New York
+667	62149	New York	Philadelphia
+668	208666	Los Angeles	New York
+669	115766	Philadelphia	New York
+670	229037	Atlanta	Los Angeles
+671	229032	San Francisco	Austin
+672	67517	Washington, D.C.	New York
+673	85915	Baltimore	New York
+674	147002	San Francisco	Honolulu
+675	113894	New York	San Francisco
+676	188440	New York	Miami-Dade
+677	138815	New York	Washington, D.C.
+678	58858	New York	Boston
+679	58858	New York	Miami-Dade
+680	174295	Franklin	Chicago
+681	263729	Boston	San Francisco
+682	263729	Boston	Austin
+683	218743	Los Angeles	San Francisco
+684	218743	New York	Boston
+685	77892	Los Angeles	Atlanta
+686	136419	Los Angeles	New York
+687	30919	Dallas	New York
+688	82133	Boston	Los Angeles
+689	92122	New York	Miami-Dade
+690	228345	New York	Los Angeles
+691	170578	Miami-Dade	Chicago
+692	2390	New York	Chicago
+693	55090	San Francisco	New York
+694	55090	San Francisco	Austin
+695	34748	Houston	Orleans
+696	50122	Chicago	Seattle
+697	221033	Boston	New York
+698	85256	New York	Chicago
+699	130950	New York	Los Angeles
+700	180414	Washington, D.C.	New York
+701	256134	Chicago	New York
+702	45194	Atlanta	New York
+703	22136	New York	Minneapolis
+704	4064	New York	Chicago
+705	7665	Los Angeles	New York
+706	21589	Minneapolis	Chicago
+707	77431	New York	Miami-Dade
+708	263946	San Francisco	Honolulu
+709	5788	Seattle	San Diego
+710	261543	Los Angeles	Portland
+711	244540	San Francisco	Austin
+712	60396	New York	San Francisco
+713	116989	New York	Houston
+714	114638	San Francisco	Washington, D.C.
+715	46478	New York	Baltimore
+716	220342	New York	Philadelphia
+717	220342	New York	San Francisco
+718	116183	New York	Seattle
+719	4453	Miami-Dade	Los Angeles
+720	102808	Los Angeles	Austin
+721	74162	New York	Boston
+722	153994	Atlanta	Orleans
+723	153994	Atlanta	Miami-Dade
+724	36242	New York	Philadelphia
+725	131788	Boston	New York
+726	64259	Los Angeles	New York
+727	64259	Los Angeles	San Francisco
+728	260145	Chicago	Orleans
+729	84484	Chicago	Los Angeles
+730	99242	Washington, D.C.	Miami-Dade
+731	158960	Washington, D.C.	San Francisco
+732	111182	Chicago	San Francisco
+733	204229	Washington, D.C.	San Francisco
+734	57944	New York	Orleans
+735	95621	Philadelphia	New York
+736	156323	Los Angeles	Seattle
+737	99791	New York	Seattle
+738	99066	San Francisco	Los Angeles
+739	233113	New York	Austin
+740	162440	New York	Chicago
+741	18813	Washington, D.C.	Philadelphia
+742	54267	Los Angeles	Washington, D.C.
+743	30210	Chicago	New York
+744	7126	Washington, D.C.	New York
+745	162321	Los Angeles	Portland
+746	67253	New York	Los Angeles
+747	592	Chicago	Austin
+748	40639	Miami-Dade	New York
+749	40637	Seattle	Los Angeles
+750	34245	New York	Boston
+751	77883	Seattle	Chicago
+752	73763	New York	Los Angeles
+753	84059	New York	Chicago
+754	160755	Boston	Washington, D.C.
+755	225585	New York	Philadelphia
+756	225585	New York	Orleans
+757	77083	Milwaukee	New York
+758	95831	Atlanta	Los Angeles
+759	228400	Los Angeles	Austin
+760	188651	Chicago	Orleans
+761	11226	New York	Baltimore
+762	11226	New York	Boston
+763	201487	Dallas	Los Angeles
+764	56305	New York	Boston
+765	19485	New York	Miami-Dade
+766	19485	New York	Washington, D.C.
+767	25306	Philadelphia	New York
+768	217648	New York	Miami-Dade
+769	82308	New York	Honolulu
+770	234564	New York	Austin
+771	82370	Miami-Dade	New York
+772	92821	New York	Portland
+773	93085	Houston	Austin
+774	191709	Los Angeles	San Francisco
+775	16629	Chicago	New York
+776	16629	Chicago	Los Angeles
+777	32354	Chicago	Austin
+778	32357	New York	Atlanta
+779	91242	Milwaukee	Chicago
+780	131238	New York	Portland
+781	131238	New York	Miami-Dade
+782	131238	New York	Austin
+783	181309	Washington, D.C.	San Francisco
+784	153987	Miami-Dade	New York
+785	10939	New York	Chicago
+786	63702	San Francisco	Honolulu
+787	9448	Washington, D.C.	Los Angeles
+788	61960	San Francisco	Washington, D.C.
+789	188191	Franklin	Austin
+790	69707	New York	Austin
+791	26104	Baltimore	Philadelphia
+792	49735	Los Angeles	Chicago
+793	42281	Chicago	New York
+794	125567	Los Angeles	Chicago
+795	3416	New York	Washington, D.C.
+796	135808	New York	San Francisco
+797	22933	Boston	New York
+798	145995	Honolulu	San Francisco
+799	2019	New York	Dallas
+800	2019	New York	Portland
+801	2019	New York	Chicago
+802	2019	New York	Atlanta
+803	18486	New York	Philadelphia
+804	265257	Philadelphia	Washington, D.C.
+805	181209	Atlanta	Los Angeles
+806	10592	New York	Austin
+807	10592	New York	Los Angeles
+808	148576	San Francisco	Honolulu
+809	188881	New York	Boston
+810	188881	New York	Chicago
+811	34773	Miami-Dade	Chicago
+812	41488	Los Angeles	Seattle
+813	113232	Austin	San Francisco
+814	67063	New York	Minneapolis
+815	40022	Los Angeles	Austin
+816	147063	Austin	Los Angeles
+817	47552	New York	Austin
+818	147067	Boston	Chicago
+819	142545	Dallas	Chicago
+820	142545	Dallas	Houston
+821	103057	Philadelphia	Chicago
+822	94047	San Francisco	New York
+823	137381	San Francisco	Los Angeles
+824	40287	Dallas	New York
+825	29025	New York	San Francisco
+826	76547	Boston	San Diego
+827	76543	New York	Honolulu
+828	1341	Washington, D.C.	San Francisco
+829	237827	Washington, D.C.	Los Angeles
+830	237827	Washington, D.C.	Boston
+831	159726	San Francisco	Austin
+832	131003	New York	Los Angeles
+833	45355	San Francisco	Honolulu
+834	188798	Washington, D.C.	Philadelphia
+835	83345	New York	San Diego
+836	3973	New York	Los Angeles
+837	32502	Chicago	Miami-Dade
+838	23268	New York	Atlanta
+839	23268	New York	Austin
+840	3976	Philadelphia	Los Angeles
+841	3976	Philadelphia	New York
+842	165711	New York	Philadelphia
+843	165711	New York	Washington, D.C.
+844	98028	New York	Los Angeles
+845	98028	New York	Chicago
+846	254831	New York	Chicago
+847	35412	New York	Washington, D.C.
+848	35412	New York	Los Angeles
+849	96687	New York	Austin
+850	209716	Los Angeles	San Francisco
+851	51885	Boston	Los Angeles
+852	51885	Boston	New York
+853	98246	Houston	New York
+854	98246	Houston	Austin
+855	130060	New York	Austin
+856	4473	New York	Orleans
+857	4476	San Francisco	Los Angeles
+858	74143	Atlanta	Miami-Dade
+859	80225	San Francisco	New York
+860	80229	San Francisco	Chicago
+861	80229	San Francisco	Los Angeles
+862	251598	New York	Los Angeles
+863	251598	New York	Miami-Dade
+864	46758	Chicago	New York
+865	2463	Los Angeles	Miami-Dade
+866	48616	Los Angeles	New York
+867	199520	New York	Philadelphia
+868	59876	New York	Chicago
+869	190074	Franklin	Austin
+870	33017	New York	Minneapolis
+871	33017	New York	Atlanta
+872	33011	Los Angeles	San Francisco
+873	225192	Boston	Chicago
+874	89825	Chicago	Washington, D.C.
+875	159919	New York	Boston
+876	159919	New York	Minneapolis
+877	112080	Dallas	Austin
+878	226030	Los Angeles	San Diego
+879	84219	Chicago	New York
+880	169864	Washington, D.C.	New York
+881	4340	New York	Washington, D.C.
+882	4340	New York	Boston
+883	81512	Chicago	San Diego
+884	81512	San Francisco	New York
+885	184150	New York	Atlanta
+886	75166	New York	Orleans
+887	116734	Chicago	San Francisco
+888	234445	Miami-Dade	New York
+889	263462	New York	Miami-Dade
+890	47960	Austin	San Francisco
+891	175660	Boston	New York
+892	109953	New York	San Francisco
+893	109953	New York	Honolulu
+894	4275	New York	Minneapolis
+895	263576	Philadelphia	New York
+896	13969	San Francisco	New York
+897	13969	San Francisco	Washington, D.C.
+898	178058	New York	Washington, D.C.
+899	5557	New York	San Francisco
+900	116162	New York	Philadelphia
+901	225218	New York	Philadelphia
+902	115538	Franklin	New York
+903	130526	New York	San Francisco
+904	130526	New York	Chicago
+905	33485	Houston	Austin
+906	47342	Los Angeles	San Francisco
+907	114451	New York	Miami-Dade
+908	114451	New York	Los Angeles
+909	8276	New York	Atlanta
+910	47348	New York	Minneapolis
+911	89564	New York	San Diego
+912	48973	Los Angeles	Washington, D.C.
+913	129852	Chicago	San Diego
+914	196268	New York	Chicago
+915	161064	Chicago	Miami-Dade
+916	109047	Dallas	Austin
+917	177231	Boston	Austin
+918	136993	New York	Miami-Dade
+919	136993	New York	Chicago
+920	259636	New York	Miami-Dade
+921	114840	San Francisco	Los Angeles
+922	120069	New York	Washington, D.C.
+923	104678	Philadelphia	Orleans
+924	63729	Atlanta	San Francisco
+925	21178	New York	Honolulu
+926	21178	New York	Miami-Dade
+927	121223	New York	San Francisco
+928	121223	New York	Honolulu
+929	121223	New York	Austin
+930	241519	Chicago	Austin
+931	199069	Atlanta	Washington, D.C.
+932	26163	New York	Philadelphia
+933	228280	Houston	Los Angeles
+934	46923	Baltimore	Philadelphia
+935	22911	Chicago	Orleans
+936	4806	New York	Atlanta
+937	10590	New York	Philadelphia
+938	56935	New York	Austin
+939	58865	Milwaukee	Chicago
+940	79851	Los Angeles	San Diego
+941	112341	Miami-Dade	New York
+942	146795	Chicago	New York
+943	14381	New York	Miami-Dade
+944	54097	New York	Orleans
+945	155935	Boston	Austin
+946	71017	Miami-Dade	Chicago
+947	59117	Los Angeles	San Diego
+948	70928	San Francisco	Los Angeles
+949	263768	New York	Chicago
+950	263768	New York	Washington, D.C.
+951	71030	New York	Miami-Dade
+952	78077	Los Angeles	Washington, D.C.
+953	174783	San Francisco	San Diego
+954	174783	San Francisco	New York
+955	109726	Austin	San Francisco
+956	79656	Chicago	Miami-Dade
+957	79656	Chicago	Washington, D.C.
+958	81003	Los Angeles	San Diego
+959	174678	Minneapolis	New York
+960	6940	Los Angeles	Chicago
+961	13808	Honolulu	San Francisco
+962	15715	Los Angeles	Honolulu
+963	65523	Dallas	Austin
+964	127373	San Francisco	Washington, D.C.
+965	83223	Los Angeles	Honolulu
+966	8900	Los Angeles	San Diego
+967	201729	New York	Philadelphia
+968	213072	New York	San Francisco
+969	181584	Los Angeles	San Francisco
+970	215552	New York	San Francisco
+971	116413	Los Angeles	Seattle
+972	94207	New York	San Francisco
+973	94207	New York	Washington, D.C.
+974	177000	San Francisco	Seattle
+975	145112	Los Angeles	Portland
+976	96157	Los Angeles	San Francisco
+977	155251	Washington, D.C.	Orleans
+978	47124	New York	San Francisco
+979	47124	New York	Miami-Dade
+980	186918	Los Angeles	Austin
+981	102843	New York	Austin
+982	25111	New York	Austin
+983	139157	Chicago	Austin
+984	139157	Chicago	New York
+985	82532	New York	San Francisco
+986	46009	Dallas	Orleans
+987	75839	New York	Orleans
+988	75839	New York	Baltimore
+989	42584	Los Angeles	New York
+990	15205	Minneapolis	New York
+991	107864	Los Angeles	Orleans
+992	107864	Los Angeles	Portland
+993	167198	Philadelphia	Los Angeles
+994	80540	New York	Philadelphia
+995	191046	Franklin	Austin
+996	201941	Dallas	Austin
+997	163038	New York	Philadelphia
+998	162343	Houston	New York
+999	39697	New York	San Francisco
+1000	39697	New York	Los Angeles
+1001	54956	Austin	Dallas
+1002	58984	Los Angeles	San Francisco
+1003	112314	Seattle	San Francisco
+1004	112314	Seattle	New York
+1005	236723	New York	Washington, D.C.
+1006	32447	Chicago	Los Angeles
+1007	48360	New York	Portland
+1008	168064	New York	Franklin
+1009	86560	Dallas	Austin
+1010	26977	San Francisco	New York
+1011	26977	San Francisco	Austin
+1012	76305	San Francisco	Portland
+1013	3530	Houston	San Francisco
+1014	3396	Dallas	Austin
+1015	219156	Los Angeles	San Francisco
+1016	219156	Los Angeles	Atlanta
+1017	32449	Chicago	Los Angeles
+1018	559	New York	Portland
+1019	108000	New York	San Francisco
+1020	108000	New York	Dallas
+1021	5459	New York	Philadelphia
+1022	94838	New York	Seattle
+1023	148895	New York	Austin
+1024	256637	New York	Austin
+1025	252701	New York	Boston
+1026	252701	New York	Chicago
+1027	126262	New York	Atlanta
+1028	181976	New York	Chicago
+1029	169338	New York	Chicago
+1030	48958	Los Angeles	Honolulu
+1031	150948	Chicago	Miami-Dade
+1032	97843	Chicago	Los Angeles
+1033	27763	San Francisco	Chicago
+1034	150947	New York	Austin
+1035	129529	New York	Los Angeles
+1036	23474	Los Angeles	San Francisco
+1037	3833	New York	Philadelphia
+1038	151894	Chicago	Orleans
+1039	219132	Miami-Dade	New York
+1040	155396	San Francisco	Austin
+1041	155396	San Francisco	New York
+1042	153703	New York	Los Angeles
+1043	231914	Miami-Dade	New York
+1044	231439	Boston	New York
+1045	145329	New York	Washington, D.C.
+1046	16667	New York	Washington, D.C.
+1047	237828	New York	Orleans
+1048	214081	Dallas	Austin
+1049	141760	Atlanta	New York
+1050	141760	Atlanta	Miami-Dade
+1051	227822	Washington, D.C.	New York
+1052	64849	New York	Austin
+1053	120047	Washington, D.C.	Philadelphia
+1054	5105	San Diego	Los Angeles
+1055	200391	Minneapolis	New York
+1056	46498	Chicago	Washington, D.C.
+1057	105381	Seattle	New York
+1058	158575	Dallas	New York
+1059	105385	Los Angeles	San Diego
+1060	204723	Austin	Los Angeles
+1061	154442	Atlanta	Los Angeles
+1062	124299	New York	San Francisco
+1063	260864	Washington, D.C.	Los Angeles
+1064	248508	New York	Austin
+1065	122088	Boston	Washington, D.C.
+1066	49776	New York	Orleans
+1067	116757	New York	Chicago
+1068	38422	Boston	Miami-Dade
+1069	75196	San Francisco	Los Angeles
+1070	183882	New York	Minneapolis
+1071	2052	Minneapolis	New York
+1072	204094	San Francisco	Washington, D.C.
+1073	104124	Austin	Dallas
+1074	57060	Dallas	Houston
+1075	58841	Boston	Chicago
+1076	20648	New York	Minneapolis
+1077	20648	New York	Orleans
+1078	20648	New York	San Francisco
+1079	20645	Franklin	New York
+1080	20645	Franklin	Chicago
+1081	164977	New York	Los Angeles
+1082	64591	Washington, D.C.	San Francisco
+1083	27963	Philadelphia	Los Angeles
+1084	128731	New York	Washington, D.C.
+1085	251544	New York	Philadelphia
+1086	167901	New York	Washington, D.C.
+1087	67022	San Francisco	Seattle
+1088	67022	San Francisco	New York
+1089	67022	San Francisco	San Diego
+1090	216302	Los Angeles	San Diego
+1091	168670	Los Angeles	Portland
+1092	76369	New York	Minneapolis
+1093	41777	San Diego	New York
+1094	76360	New York	Austin
+1095	76360	New York	Philadelphia
+1096	36174	San Francisco	New York
+1097	42313	New York	Chicago
+1098	42313	New York	Austin
+1099	159891	Houston	Orleans
+1100	174239	Los Angeles	Chicago
+1101	33990	Milwaukee	Chicago
+1102	218063	Chicago	Los Angeles
+1103	153022	New York	San Diego
+1104	162351	Atlanta	Austin
+1105	79637	Minneapolis	Chicago
+1106	39341	Seattle	Portland
+1107	31595	Philadelphia	Chicago
+1108	180962	Boston	Chicago
+1109	24398	Baltimore	New York
+1110	66378	New York	Dallas
+1111	66378	New York	Los Angeles
+1112	55388	New York	Los Angeles
+1113	142753	New York	Austin
+1114	69674	Los Angeles	San Francisco
+1115	69674	Los Angeles	Portland
+1116	245021	Seattle	Portland
+1117	151407	Los Angeles	Boston
+1118	151407	Los Angeles	Chicago
+1119	14503	New York	Washington, D.C.
+1120	152524	New York	Washington, D.C.
+1121	152524	New York	Austin
+1122	259995	Los Angeles	New York
+1123	201701	New York	Washington, D.C.
+1124	259849	New York	Philadelphia
+1125	60335	New York	Austin
+1126	177061	Seattle	Chicago
+1127	244266	New York	Austin
+1128	104467	New York	Austin
+1129	118538	Dallas	Chicago
+1130	118538	Dallas	Orleans
+1131	148324	Honolulu	San Francisco
+1132	36227	Atlanta	Austin
+1133	139136	New York	Chicago
+1134	157239	Washington, D.C.	Philadelphia
+1135	97044	Minneapolis	Chicago
+1136	2421	Minneapolis	Chicago
+1137	7847	Chicago	Los Angeles
+1138	191022	Miami-Dade	New York
+1139	117342	San Francisco	Orleans
+1140	141696	Chicago	San Diego
+1141	107460	San Diego	New York
+1142	107460	San Diego	Washington, D.C.
+1143	21703	Boston	Washington, D.C.
+1144	21703	Boston	Miami-Dade
+1145	135780	Los Angeles	Chicago
+1146	46682	Austin	San Francisco
+1147	137331	New York	Austin
+1148	101856	Los Angeles	San Diego
+1149	14888	Atlanta	Miami-Dade
+1150	37578	Chicago	New York
+1151	112334	New York	Los Angeles
+1152	112336	New York	Los Angeles
+1153	134562	San Francisco	San Diego
+1154	184868	Los Angeles	Chicago
+1155	80957	San Francisco	New York
+1156	149587	New York	Los Angeles
+1157	190770	New York	Boston
+1158	96887	New York	Los Angeles
+1159	96887	New York	Miami-Dade
+1160	207066	New York	Portland
+1161	207066	New York	Miami-Dade
+1162	14269	Washington, D.C.	Chicago
+1163	264081	Seattle	Los Angeles
+1164	234405	San Francisco	New York
+1165	252892	New York	Austin
+1166	123831	Dallas	Los Angeles
+1167	143750	Chicago	Los Angeles
+1168	143750	Chicago	New York
+1169	143757	New York	Minneapolis
+1170	219599	New York	Washington, D.C.
+1171	78730	Philadelphia	Los Angeles
+1172	207664	Minneapolis	Chicago
+1173	129728	New York	Boston
+1174	156297	Boston	San Diego
+1175	126718	Los Angeles	New York
+1176	118790	Washington, D.C.	San Francisco
+1177	15021	Los Angeles	New York
+1178	15021	Los Angeles	Philadelphia
+1179	224939	New York	Orleans
+1180	144636	Chicago	Los Angeles
+1181	73707	San Francisco	Los Angeles
+1182	23495	San Francisco	New York
+1183	23495	San Francisco	Austin
+1184	266107	Boston	Austin
+1185	8450	New York	Chicago
+1186	119157	Milwaukee	New York
+1187	109027	Boston	Washington, D.C.
+1188	21681	Houston	Orleans
+1189	21681	Houston	New York
+1190	35689	Washington, D.C.	Austin
+1191	35689	Washington, D.C.	Orleans
+1192	224690	Los Angeles	San Francisco
+1193	172961	Los Angeles	San Diego
+1194	233995	Washington, D.C.	Orleans
+1195	233991	New York	Los Angeles
+1196	31011	Washington, D.C.	Philadelphia
+1197	227801	Philadelphia	New York
+1198	25634	New York	Miami-Dade
+1199	181046	Los Angeles	New York
+1200	241559	Washington, D.C.	San Francisco
+1201	214354	New York	Chicago
+1202	198478	New York	Austin
+1203	240977	Dallas	Houston
+1204	235436	New York	San Francisco
+1205	86883	New York	Seattle
+1206	87517	New York	Miami-Dade
+1207	200119	New York	Boston
+1208	196918	Los Angeles	New York
+1209	46216	New York	Philadelphia
+1210	106257	Milwaukee	New York
+1211	244450	Los Angeles	New York
+1212	9421	New York	Philadelphia
+1213	64726	Chicago	Orleans
+1214	50471	Seattle	New York
+1215	122718	Dallas	New York
+1216	17778	Houston	Orleans
+1217	153216	Miami-Dade	New York
+1218	69935	New York	Washington, D.C.
+1219	198773	Atlanta	Chicago
+1220	48443	Dallas	Austin
+1221	100618	New York	Chicago
+1222	94191	New York	Washington, D.C.
+1223	33428	New York	Los Angeles
+1224	108901	New York	Atlanta
+1225	108901	New York	Dallas
+1226	66564	Los Angeles	Portland
+1227	138896	Chicago	New York
+1228	70962	New York	Austin
+1229	156190	New York	Los Angeles
+1230	156190	New York	San Francisco
+1231	61970	New York	Los Angeles
+1232	214304	New York	Houston
+1233	255602	New York	San Francisco
+1234	176523	Austin	Dallas
+1235	111157	New York	Minneapolis
+1236	39368	Los Angeles	Seattle
+1237	122862	New York	Franklin
+1238	122862	New York	Orleans
+1239	92126	New York	San Diego
+1240	249165	Los Angeles	Austin
+1241	67402	New York	Chicago
+1242	183762	New York	San Francisco
+1243	148360	Atlanta	San Francisco
+1244	68694	Washington, D.C.	Philadelphia
+1245	114509	Boston	Los Angeles
+1246	170242	Houston	Austin
+1247	5704	New York	Boston
+1248	5704	New York	Seattle
+1249	145622	New York	Los Angeles
+1250	60314	New York	Chicago
+1251	107827	New York	San Francisco
+1252	217721	Los Angeles	Seattle
+1253	217721	Los Angeles	Boston
+1254	67192	New York	Minneapolis
+1255	160038	Portland	Seattle
+1256	252336	New York	Austin
+1257	253779	New York	Austin
+1258	65835	New York	Los Angeles
+1259	201185	Washington, D.C.	New York
+1260	43499	New York	Baltimore
+1261	16582	Los Angeles	New York
+1262	16582	Los Angeles	Chicago
+1263	218182	New York	Washington, D.C.
+1264	181827	Los Angeles	San Francisco
+1265	162490	Seattle	Chicago
+1266	162490	Seattle	Los Angeles
+1267	42010	Philadelphia	Baltimore
+1268	177041	San Francisco	Honolulu
+1269	10832	Dallas	Austin
+1270	75872	New York	Los Angeles
+1271	193535	Atlanta	Washington, D.C.
+1272	45225	Boston	Los Angeles
+1273	134291	Los Angeles	Honolulu
+1274	7827	New York	Miami-Dade
+1275	166063	New York	Washington, D.C.
+1276	166064	San Francisco	New York
+1277	158421	Philadelphia	New York
+1278	49638	Atlanta	Austin
+1279	21274	New York	Chicago
+1280	209347	Minneapolis	New York
+1281	4988	San Diego	New York
+1282	4988	San Diego	San Francisco
+1283	48322	Los Angeles	Miami-Dade
+1284	226051	Boston	San Francisco
+1285	264318	New York	Los Angeles
+1286	98951	New York	Houston
+1287	70205	New York	Austin
+1288	70206	Los Angeles	San Francisco
+1289	108048	San Diego	Los Angeles
+1290	168313	Philadelphia	Los Angeles
+1291	92148	Los Angeles	New York
+1292	207006	New York	Austin
+1293	143884	Washington, D.C.	Los Angeles
+1294	143737	New York	Washington, D.C.
+1295	234683	New York	Los Angeles
+1296	103118	New York	Miami-Dade
+1297	218606	Baltimore	Orleans
+1298	512	Franklin	Austin
+1299	1222	San Francisco	Chicago
+1300	1222	San Francisco	Washington, D.C.
+1301	179549	Los Angeles	San Francisco
+1302	126225	San Francisco	Los Angeles
+1303	1228	New York	San Francisco
+1304	27727	San Francisco	San Diego
+1305	59363	Los Angeles	Seattle
+1306	171074	Chicago	New York
+1307	233220	Houston	Los Angeles
+1308	238941	New York	Los Angeles
+1309	32466	Los Angeles	Seattle
+1310	32466	Los Angeles	Chicago
+1311	196209	New York	Miami-Dade
+1312	204245	Seattle	Chicago
+1313	66433	Atlanta	New York
+1314	145815	San Francisco	Orleans
+1315	110161	New York	Boston
+1316	35807	Miami-Dade	New York
+1317	259652	Atlanta	Washington, D.C.
+1318	117192	New York	Austin
+1319	61479	Atlanta	New York
+1320	84837	New York	Minneapolis
+1321	154624	San Diego	San Francisco
+1322	159212	New York	Boston
+1323	69520	New York	Miami-Dade
+1324	96296	Chicago	Milwaukee
+1325	75407	New York	Chicago
+1326	205181	Los Angeles	Austin
+1327	65312	San Francisco	Miami-Dade
+1328	65312	San Francisco	Los Angeles
+1329	92975	Los Angeles	Seattle
+1330	92975	Los Angeles	Chicago
+1331	22742	San Francisco	Orleans
+1332	142043	New York	San Francisco
+1333	192059	Dallas	Houston
+1334	184170	New York	San Francisco
+1335	69782	Los Angeles	New York
+1336	93006	Milwaukee	Chicago
+1337	17573	Philadelphia	Orleans
+1338	17573	Philadelphia	Washington, D.C.
+1339	3491	Milwaukee	Chicago
+1340	120192	New York	San Francisco
+1341	11667	Baltimore	Orleans
+1342	154101	New York	Austin
+1343	154101	New York	San Francisco
+1344	60693	Houston	Orleans
+1345	23592	Houston	Los Angeles
+1346	23592	Houston	New York
+1347	135330	Los Angeles	Orleans
+1348	85004	Boston	Miami-Dade
+1349	134062	Baltimore	New York
+1350	39736	Los Angeles	New York
+1351	107585	New York	Washington, D.C.
+1352	12313	San Francisco	San Diego
+1353	12313	San Francisco	Austin
+1354	54527	Dallas	Houston
+1355	33404	San Diego	New York
+1356	11930	San Francisco	Seattle
+1357	264129	New York	Los Angeles
+1358	238166	New York	Minneapolis
+1359	12912	Honolulu	San Francisco
+1360	154116	Chicago	Washington, D.C.
+1361	78582	New York	Atlanta
+1362	78582	New York	Miami-Dade
+1363	49849	Los Angeles	New York
+1364	112477	Los Angeles	Boston
+1365	123643	Honolulu	San Francisco
+1366	15940	Atlanta	Los Angeles
+1367	86860	New York	Washington, D.C.
+1368	164645	Los Angeles	Chicago
+1369	1033	San Francisco	Los Angeles
+1370	122565	Franklin	New York
+1371	11494	San Francisco	Los Angeles
+1372	47711	Atlanta	San Francisco
+1373	77329	San Francisco	Los Angeles
+1374	108525	Baltimore	New York
+1375	52166	Philadelphia	Baltimore
+1376	52166	Philadelphia	Chicago
+1377	170004	New York	Los Angeles
+1378	225199	New York	Baltimore
+1379	17891	New York	Chicago
+1380	172532	New York	Austin
+1381	126694	Washington, D.C.	New York
+1382	132429	New York	Boston
+1383	225998	New York	Boston
+1384	225998	New York	Miami-Dade
+1385	142602	Chicago	New York
+1386	142602	Chicago	San Francisco
+1387	60998	Philadelphia	Chicago
+1388	60998	Philadelphia	Orleans
+1389	145605	San Diego	New York
+1390	228728	New York	Philadelphia
+1391	60990	New York	Seattle
+1392	60990	New York	San Francisco
+1393	47726	Chicago	Boston
+1394	103876	Minneapolis	Chicago
+1395	109123	Austin	San Francisco
+1396	74988	Chicago	Los Angeles
+1397	80169	Austin	New York
+1398	165682	Chicago	New York
+1399	154345	Seattle	Los Angeles
+1400	209877	New York	Boston
+1401	166263	Houston	San Francisco
+1402	259221	Seattle	Portland
+1403	259221	Seattle	New York
+1404	116966	New York	Chicago
+1405	231415	Baltimore	New York
+1406	227457	Minneapolis	New York
+1407	93946	New York	Los Angeles
+1408	93946	New York	San Francisco
+1409	93946	New York	Chicago
+1410	90474	Los Angeles	New York
+1411	250599	Washington, D.C.	New York
+1412	44190	New York	Chicago
+1413	125110	Philadelphia	New York
+1414	149012	New York	San Francisco
+1415	212939	Minneapolis	New York
+1416	111988	Washington, D.C.	New York
+1417	111988	Washington, D.C.	Austin
+1418	9674	Boston	New York
+1419	209321	San Francisco	Portland
+1420	168153	Austin	San Francisco
+1421	199333	New York	Miami-Dade
+1422	41056	Chicago	Washington, D.C.
+1423	41056	Chicago	New York
+1424	1939	New York	Boston
+1425	172090	Chicago	Washington, D.C.
+1426	237251	New York	San Francisco
+1427	237780	New York	Chicago
+1428	228551	San Francisco	Austin
+1429	71429	Los Angeles	San Francisco
+1430	71429	Los Angeles	Philadelphia
+1431	71420	New York	Washington, D.C.
+1432	18210	Miami-Dade	Los Angeles
+1433	94720	Houston	Orleans
+1434	237433	Milwaukee	Chicago
+1435	252500	New York	San Diego
+1436	237430	San Diego	San Francisco
+1437	9886	New York	Boston
+1438	9886	New York	Portland
+1439	113464	Washington, D.C.	New York
+1440	133078	Washington, D.C.	Los Angeles
+1441	36621	Miami-Dade	Los Angeles
+1442	251318	Houston	Los Angeles
+1443	85813	Washington, D.C.	New York
+1444	85816	Los Angeles	Honolulu
+1445	6882	Chicago	Orleans
+1446	103135	San Francisco	Austin
+1447	259568	San Francisco	Austin
+1448	40698	San Francisco	New York
+1449	219233	New York	Chicago
+1450	9883	Los Angeles	San Francisco
+1451	9883	Los Angeles	New York
+1452	59436	Atlanta	Orleans
+1453	59436	Atlanta	Washington, D.C.
+1454	237924	Washington, D.C.	New York
+1455	59345	San Francisco	Orleans
+1456	59345	San Francisco	San Diego
+1457	199338	New York	Minneapolis
+1458	39447	New York	Seattle
+1459	39447	New York	Washington, D.C.
+1460	39447	New York	Baltimore
+1461	39447	New York	Franklin
+1462	39447	New York	Philadelphia
+1463	156780	New York	San Francisco
+1464	31634	Boston	San Diego
+1465	72301	New York	Boston
+1466	74393	Chicago	New York
+1467	229801	New York	San Francisco
+1468	34661	Boston	Washington, D.C.
+1469	7588	Los Angeles	Miami-Dade
+1470	212704	San Diego	New York
+1471	245543	Chicago	San Diego
+1472	22503	Los Angeles	San Francisco
+1473	150255	Austin	New York
+1474	131299	New York	Miami-Dade
+1475	160483	New York	Washington, D.C.
+1476	22760	New York	Washington, D.C.
+1477	106902	Philadelphia	Washington, D.C.
+1478	177363	New York	Austin
+1479	77688	New York	Philadelphia
+1480	230830	Seattle	San Francisco
+1481	230787	Atlanta	Los Angeles
+1482	31850	Los Angeles	San Francisco
+1483	118648	New York	Austin
+1484	106212	New York	Los Angeles
+1485	38481	New York	Austin
+1486	105090	Philadelphia	New York
+1487	17226	Minneapolis	Chicago
+1488	121323	Los Angeles	Orleans
+1489	85246	Los Angeles	New York
+1490	254225	New York	San Francisco
+1491	254224	Houston	Orleans
+1492	218060	New York	Honolulu
+1493	203384	New York	Orleans
+1494	27906	Seattle	San Francisco
+1495	20622	Atlanta	Washington, D.C.
+1496	146715	New York	Washington, D.C.
+1497	146711	New York	Philadelphia
+1498	146710	Boston	New York
+1499	146710	Boston	San Francisco
+1500	49288	San Diego	New York
+1501	42229	Washington, D.C.	Los Angeles
+1502	101146	New York	Orleans
+1503	101146	New York	Honolulu
+1504	205304	Dallas	Orleans
+1505	2617	Philadelphia	Orleans
+1506	2617	Philadelphia	Chicago
+1507	20489	New York	Boston
+1508	20489	New York	Austin
+1509	134002	Dallas	Austin
+1510	191634	Los Angeles	San Diego
+1511	7303	Los Angeles	New York
+1512	12623	New York	Washington, D.C.
+1513	12623	New York	Los Angeles
+1514	105231	Chicago	New York
+1515	33173	New York	Austin
+1516	236645	Boston	Miami-Dade
+1517	33176	New York	Seattle
+1518	33176	New York	Philadelphia
+1519	33176	New York	Baltimore
+1520	113819	Chicago	Los Angeles
+1521	53453	Atlanta	Washington, D.C.
+1522	58867	Los Angeles	San Francisco
+1523	50222	New York	Washington, D.C.
+1524	113607	San Diego	Los Angeles
+1525	47869	Houston	San Francisco
+1526	172281	New York	Washington, D.C.
+1527	137588	Washington, D.C.	Austin
+1528	89682	New York	Baltimore
+1529	45728	Houston	Los Angeles
+1530	136989	New York	Los Angeles
+1531	62018	Los Angeles	Chicago
+1532	46374	Houston	Austin
+1533	228527	Atlanta	New York
+1534	47285	New York	Los Angeles
+1535	93708	San Francisco	Seattle
+1536	93708	San Francisco	Los Angeles
+1537	89467	New York	San Francisco
+1538	165041	Washington, D.C.	New York
+1539	61665	Los Angeles	San Diego
+1540	181503	New York	Austin
+1541	27689	New York	Seattle
+1542	27689	New York	Portland
+1543	45175	Houston	Austin
+1544	130806	Houston	New York
+1545	68630	Atlanta	Chicago
+1546	140018	Los Angeles	New York
+1547	28768	Dallas	New York
+1548	58654	Philadelphia	Washington, D.C.
+1549	259208	New York	Chicago
+1550	117013	New York	Chicago
+1551	116946	New York	Austin
+1552	19517	New York	Honolulu
+1553	19517	New York	Miami-Dade
+1554	63996	Los Angeles	Honolulu
+1555	19519	Miami-Dade	New York
+1556	150440	Los Angeles	New York
+1557	231370	New York	Austin
+1558	227380	Seattle	New York
+1559	2378	Milwaukee	New York
+1560	69669	New York	Los Angeles
+1561	260901	New York	Minneapolis
+1562	246162	Austin	New York
+1563	153066	Los Angeles	New York
+1564	49671	New York	Houston
+1565	174817	Los Angeles	Miami-Dade
+1566	85580	New York	Miami-Dade
+1567	94396	New York	Orleans
+1568	94396	New York	Chicago
+1569	162119	San Francisco	Los Angeles
+1570	54486	Atlanta	Austin
+1571	54486	Atlanta	New York
+1572	17052	Philadelphia	Baltimore
+1573	5102	Los Angeles	New York
+1574	5102	Los Angeles	Honolulu
+1575	3281	Boston	Miami-Dade
+1576	17059	Atlanta	Washington, D.C.
+1577	116058	Washington, D.C.	New York
+1578	94649	New York	Austin
+1579	172079	Boston	New York
+1580	172079	Boston	San Diego
+1581	60719	Washington, D.C.	Miami-Dade
+1582	196269	Chicago	Milwaukee
+1583	265447	Philadelphia	New York
+1584	94707	Franklin	Chicago
+1585	134498	New York	Chicago
+1586	134498	New York	Honolulu
+1587	58104	Los Angeles	New York
+1588	92842	Los Angeles	Washington, D.C.
+1589	137008	Chicago	New York
+1590	148747	New York	Austin
+1591	562	Los Angeles	San Diego
+1592	134016	Los Angeles	San Francisco
+1593	222260	New York	Philadelphia
+1594	15773	Dallas	Los Angeles
+1595	15773	Dallas	Austin
+1596	216157	Seattle	New York
+1597	29478	New York	Washington, D.C.
+1598	129745	New York	Boston
+1599	129745	New York	Washington, D.C.
+1600	9888	San Francisco	Seattle
+1601	9888	Dallas	Los Angeles
+1602	259209	New York	Orleans
+1603	254642	Seattle	San Francisco
+1604	208603	New York	Boston
+1605	157642	San Francisco	Los Angeles
+1606	8786	New York	San Francisco
+1607	231577	Philadelphia	Baltimore
+1608	5101	Atlanta	San Francisco
+1609	159641	Los Angeles	San Diego
+1610	171032	Philadelphia	New York
+1611	126869	Los Angeles	Honolulu
+1612	174519	Washington, D.C.	Miami-Dade
+1613	91912	Washington, D.C.	New York
+1614	67873	New York	Orleans
+1615	184205	New York	Austin
+1616	228198	Los Angeles	San Francisco
+1617	188690	New York	Austin
+1618	158066	Atlanta	Orleans
+1619	158069	Boston	New York
+1620	61436	Houston	Orleans
+1621	77511	New York	Chicago
+1622	77511	New York	Boston
+1623	77511	New York	Los Angeles
+1624	28124	Portland	Seattle
+1625	81699	Los Angeles	San Francisco
+1626	204816	San Francisco	Honolulu
+1627	165981	New York	Boston
+1628	230813	New York	Austin
+1629	16150	Dallas	New York
+1630	181317	New York	Chicago
+1631	225945	Chicago	Miami-Dade
+1632	112280	Seattle	Portland
+1633	106238	Washington, D.C.	Philadelphia
+1634	106237	New York	Philadelphia
+1635	90966	New York	Washington, D.C.
+1636	183803	New York	Los Angeles
+1637	118547	New York	Orleans
+1638	18233	New York	Washington, D.C.
+1639	46411	San Francisco	San Diego
+1640	134390	Austin	Dallas
+1641	194153	New York	San Francisco
+1642	196823	New York	Orleans
+1643	117222	New York	Miami-Dade
+1644	140570	New York	San Francisco
+1645	97615	New York	Philadelphia
+1646	219101	San Francisco	Seattle
+1647	205363	New York	Houston
+1648	214185	New York	Los Angeles
+1649	204369	Chicago	New York
+1650	10005	New York	Austin
+1651	2634	Milwaukee	Chicago
+1652	204362	Chicago	Orleans
+1653	204362	Chicago	San Diego
+1654	70630	Washington, D.C.	Los Angeles
+1655	62961	New York	Miami-Dade
+1656	229603	New York	San Francisco
+1657	121220	San Francisco	Los Angeles
+1658	42863	New York	Philadelphia
+1659	143415	New York	Chicago
+1660	143415	New York	Orleans
+1661	45725	Boston	San Diego
+1662	45725	Boston	Washington, D.C.
+1663	26785	New York	Austin
+1664	26500	New York	Austin
+1665	189158	New York	Washington, D.C.
+1666	158854	New York	Miami-Dade
+1667	30131	New York	Washington, D.C.
+1668	192385	New York	Miami-Dade
+1669	251336	Boston	New York
+1670	4336	Los Angeles	Austin
+1671	18008	Los Angeles	San Francisco
+1672	74159	Washington, D.C.	Miami-Dade
+1673	234908	New York	Los Angeles
+1674	106799	Boston	San Diego
+1675	122334	Houston	New York
+1676	84362	Chicago	Washington, D.C.
+1677	183250	Boston	New York
+1678	93728	New York	Washington, D.C.
+1679	109971	Los Angeles	San Francisco
+1680	28803	New York	Austin
+1681	28803	New York	Chicago
+1682	24988	San Francisco	Portland
+1683	224283	Austin	Los Angeles
+1684	36349	San Francisco	Orleans
+1685	49203	San Francisco	Chicago
+1686	177009	Los Angeles	New York
+1687	21060	Minneapolis	New York
+1688	88208	Los Angeles	Seattle
+1689	177753	New York	Austin
+1690	131159	Chicago	San Diego
+1691	131159	Chicago	New York
+1692	131159	Chicago	Seattle
+1693	147032	San Francisco	New York
+1694	50605	New York	Minneapolis
+1695	240725	Los Angeles	New York
+1696	69468	New York	Seattle
+1697	63609	Baltimore	Orleans
+1698	181121	Houston	San Francisco
+1699	21039	Dallas	Orleans
+1700	28886	Washington, D.C.	New York
+1701	43928	San Diego	San Francisco
+1702	43927	Atlanta	New York
+1703	52493	Chicago	Austin
+1704	49657	Boston	Austin
+1705	21785	San Francisco	Austin
+1706	56388	New York	Boston
+1707	134253	Los Angeles	San Francisco
+1708	79923	Los Angeles	San Diego
+1709	134255	Seattle	Chicago
+1710	190261	Los Angeles	San Francisco
+1711	172053	Franklin	Chicago
+1712	116076	Chicago	San Francisco
+1713	116079	Los Angeles	San Diego
+1714	102241	Chicago	New York
+1715	102240	Atlanta	Los Angeles
+1716	125155	New York	Chicago
+1717	110192	Dallas	Austin
+1718	50647	New York	Washington, D.C.
+1719	69684	New York	Portland
+1720	112511	New York	Austin
+1721	112511	New York	Los Angeles
+1722	142195	New York	San Francisco
+1723	142195	New York	Austin
+1724	112517	New York	Austin
+1725	112517	New York	San Francisco
+1726	45803	Los Angeles	San Diego
+1727	41387	New York	Seattle
+1728	41386	New York	Austin
+1729	41386	New York	Washington, D.C.
+1730	44604	New York	Orleans
+1731	76348	New York	Los Angeles
+1732	137280	New York	Los Angeles
+1733	263602	New York	Austin
+1734	248892	Philadelphia	New York
+1735	6300	New York	Dallas
+1736	98278	Philadelphia	New York
+1737	231516	Chicago	San Francisco
+1738	109804	Los Angeles	Seattle
+1739	11057	Chicago	New York
+1740	144698	San Francisco	New York
+1741	123748	Seattle	San Diego
+1742	7630	Baltimore	Philadelphia
+1743	37137	San Francisco	Portland
+1744	143318	Atlanta	Orleans
+1745	143318	Atlanta	San Francisco
+1746	86140	Philadelphia	Chicago
+1747	1246	New York	Houston
+1748	1246	New York	San Francisco
+1749	28327	New York	Chicago
+1750	28327	New York	Miami-Dade
+1751	22545	New York	Honolulu
+1752	3378	New York	Boston
+1753	194717	San Diego	New York
+1754	69851	Portland	Seattle
+1755	91246	New York	San Francisco
+1756	91246	New York	Orleans
+1757	234731	Honolulu	San Francisco
+1758	200642	New York	San Francisco
+1759	8651	Baltimore	Orleans
+1760	110051	New York	San Francisco
+1761	89349	Chicago	Orleans
+1762	93062	Washington, D.C.	New York
+1763	181332	New York	Boston
+1764	51727	Washington, D.C.	Boston
+1765	34641	New York	Chicago
+1766	120933	Milwaukee	New York
+1767	198903	Los Angeles	Orleans
+1768	140759	New York	Los Angeles
+1769	27348	Atlanta	New York
+1770	27346	New York	Los Angeles
+1771	27346	New York	Chicago
+1772	240288	San Francisco	Los Angeles
+1773	240288	San Francisco	Washington, D.C.
+1774	124492	Milwaukee	Chicago
+1775	194171	Seattle	San Francisco
+1776	17261	New York	Atlanta
+1777	119898	New York	Portland
+1778	39796	Washington, D.C.	New York
+1779	2650	New York	Los Angeles
+1780	2650	New York	Minneapolis
+1781	2650	New York	Baltimore
+1782	36871	New York	Los Angeles
+1783	90326	Chicago	Milwaukee
+1784	198591	New York	Washington, D.C.
+1785	156	New York	Chicago
+1786	14075	New York	San Diego
+1787	14075	New York	Washington, D.C.
+1788	62943	New York	Philadelphia
+1789	62947	New York	Los Angeles
+1790	107690	Washington, D.C.	Los Angeles
+1791	107693	Los Angeles	Austin
+1792	10283	Boston	Chicago
+1793	10280	Chicago	Washington, D.C.
+1794	10280	New York	San Francisco
+1795	46837	Washington, D.C.	New York
+1796	127311	Atlanta	New York
+1797	54392	Washington, D.C.	Orleans
+1798	211501	Los Angeles	Austin
+1799	160285	New York	Orleans
+1800	13397	Washington, D.C.	Austin
+1801	13397	Washington, D.C.	Chicago
+1802	13390	San Francisco	Austin
+1803	40739	New York	Minneapolis
+1804	153112	Los Angeles	New York
+1805	137637	San Francisco	Washington, D.C.
+1806	61845	Houston	New York
+1807	14618	Austin	Dallas
+1808	86870	Dallas	Austin
+1809	70475	New York	San Diego
+1810	71702	Washington, D.C.	New York
+1811	178420	Chicago	Boston
+1812	15275	New York	San Francisco
+1813	28799	New York	Austin
+1814	28799	New York	Chicago
+1815	106773	New York	San Francisco
+1816	212687	New York	Minneapolis
+1817	188266	Washington, D.C.	New York
+1818	191799	Boston	San Francisco
+1819	191799	Washington, D.C.	Orleans
+1820	51530	New York	Minneapolis
+1821	72134	New York	Portland
+1822	47172	Houston	New York
+1823	23334	New York	San Francisco
+1824	23334	New York	Orleans
+1825	23334	New York	Austin
+1826	256566	New York	San Diego
+1827	101096	New York	Chicago
+1828	206459	San Francisco	New York
+1829	95939	Seattle	Portland
+1830	95939	Seattle	New York
+1831	224267	Atlanta	New York
+1832	224267	Atlanta	Chicago
+1833	50918	New York	Los Angeles
+1834	7403	New York	San Francisco
+1835	2814	Washington, D.C.	Miami-Dade
+1836	2817	New York	Washington, D.C.
+1837	176622	Los Angeles	Philadelphia
+1838	245191	New York	Seattle
+1839	127856	New York	Houston
+1840	184430	New York	Baltimore
+1841	56547	Houston	Los Angeles
+1842	52840	New York	Atlanta
+1843	224402	San Francisco	Honolulu
+1844	215502	New York	Philadelphia
+1845	31166	New York	Los Angeles
+1846	564	New York	Atlanta
+1847	564	New York	San Francisco
+1848	19401	Boston	Los Angeles
+1849	4716	New York	Orleans
+1850	154524	Boston	Chicago
+1851	162367	New York	Miami-Dade
+1852	166290	New York	Boston
+1853	200508	Washington, D.C.	Philadelphia
+1854	135720	Chicago	New York
+1855	56816	Washington, D.C.	Los Angeles
+1856	128495	New York	Boston
+1857	235098	New York	Washington, D.C.
+1858	235098	New York	Miami-Dade
+1859	64077	Houston	Austin
+1860	94686	San Diego	San Francisco
+1861	143940	Los Angeles	Honolulu
+1862	235548	Baltimore	New York
+1863	140410	Boston	New York
+1864	140943	New York	Honolulu
+1865	218356	Boston	New York
+1866	80865	Milwaukee	New York
+1867	210372	New York	Chicago
+1868	15731	Los Angeles	New York
+1869	15731	San Francisco	Chicago
+1870	196610	New York	Los Angeles
+1871	169665	New York	Los Angeles
+1872	192467	New York	Miami-Dade
+1873	76701	New York	Los Angeles
+1874	31164	Los Angeles	New York
+1875	106509	Chicago	Miami-Dade
+1876	106509	Chicago	San Diego
+1877	232714	Houston	Orleans
+1878	252293	Atlanta	New York
+1879	237944	Washington, D.C.	San Francisco
+1880	97889	New York	Honolulu
+1881	231533	Philadelphia	Washington, D.C.
+1882	174318	New York	Houston
+1883	14552	Dallas	Chicago
+1884	230652	San Diego	San Francisco
+1885	189902	Los Angeles	New York
+1886	34179	Los Angeles	San Diego
+1887	131729	New York	Washington, D.C.
+1888	224670	Austin	New York
+1889	107349	New York	Franklin
+1890	202010	New York	Austin
+1891	24972	New York	Los Angeles
+1892	151051	San Diego	Los Angeles
+1893	169446	New York	San Francisco
+1894	169446	Los Angeles	Miami-Dade
+1895	13818	New York	San Francisco
+1896	230761	Washington, D.C.	Boston
+1897	132584	San Diego	Washington, D.C.
+1898	35554	San Francisco	Chicago
+1899	221573	New York	Philadelphia
+1900	118620	Dallas	Chicago
+1901	220778	New York	Austin
+1902	114811	New York	Miami-Dade
+1903	220777	Los Angeles	Chicago
+1904	82479	New York	Chicago
+1905	103882	Los Angeles	New York
+1906	103882	Los Angeles	Atlanta
+1907	64663	Philadelphia	New York
+1908	231410	Chicago	Milwaukee
+1909	183842	San Francisco	New York
+1910	177658	San Diego	San Francisco
+1911	97161	Chicago	New York
+1912	191472	Chicago	San Francisco
+1913	198825	Atlanta	Miami-Dade
+1914	251587	Boston	Austin
+1915	93701	New York	Washington, D.C.
+1916	93701	New York	Miami-Dade
+1917	142953	Austin	Dallas
+1918	177324	Chicago	New York
+1919	235978	Washington, D.C.	New York
+1920	36857	New York	Dallas
+1921	69161	New York	San Francisco
+1922	207123	San Francisco	Los Angeles
+1923	207123	San Francisco	Seattle
+1924	134351	New York	Boston
+1925	152636	New York	Dallas
+1926	243640	San Diego	Los Angeles
+1927	243640	San Diego	San Francisco
+1928	243640	San Diego	New York
+1929	125349	Franklin	Chicago
+1930	58082	New York	Los Angeles
+1931	98871	Los Angeles	Chicago
+1932	194096	Chicago	New York
+1933	162641	New York	Philadelphia
+1934	70677	New York	Chicago
+1935	204412	Washington, D.C.	San Francisco
+1936	31436	New York	Washington, D.C.
+1937	190122	New York	San Francisco
+1938	30400	Franklin	Chicago
+1939	175276	San Francisco	New York
+1940	172954	Washington, D.C.	Austin
+1941	172954	Washington, D.C.	Orleans
+1942	157699	Los Angeles	Honolulu
+1943	23193	Los Angeles	San Diego
+1944	23193	Los Angeles	Chicago
+1945	23193	Los Angeles	Seattle
+1946	18738	New York	San Francisco
+1947	69525	Boston	Miami-Dade
+1948	69525	Boston	Los Angeles
+1949	122378	San Francisco	Portland
+1950	256118	New York	Washington, D.C.
+1951	137652	New York	Washington, D.C.
+1952	137652	Los Angeles	Portland
+1953	23530	New York	Honolulu
+1954	41737	Los Angeles	San Diego
+1955	41737	Los Angeles	Chicago
+1956	47999	San Diego	San Francisco
+1957	47999	San Diego	New York
+1958	45142	Atlanta	Orleans
+1959	47198	Seattle	Portland
+1960	12556	New York	Austin
+1961	8007	Philadelphia	New York
+1962	105818	Houston	Austin
+1963	9382	Houston	Los Angeles
+1964	25258	New York	Austin
+1965	145421	New York	Houston
+1966	145421	New York	San Francisco
+1967	99775	Chicago	New York
+1968	32230	Los Angeles	Honolulu
+1969	182670	Chicago	Boston
+1970	196070	New York	San Francisco
+1971	218964	New York	Minneapolis
+1972	214520	New York	Philadelphia
+1973	114476	New York	Boston
+1974	177274	Chicago	Los Angeles
+1975	94332	New York	Orleans
+1976	56836	Houston	Austin
+1977	43696	Los Angeles	Chicago
+1978	183986	San Francisco	Honolulu
+1979	128470	New York	Chicago
+1980	52134	New York	Philadelphia
+1981	52134	New York	Chicago
+1982	52645	New York	Washington, D.C.
+1983	62515	New York	Orleans
+1984	186355	Boston	New York
+1985	21295	Chicago	Los Angeles
+1986	249982	New York	San Francisco
+1987	133744	Boston	Washington, D.C.
+1988	48788	New York	Seattle
+1989	48788	New York	Miami-Dade
+1990	48789	New York	Houston
+1991	138990	San Diego	Honolulu
+1992	15861	New York	Washington, D.C.
+1993	15861	New York	Orleans
+1994	15861	New York	Austin
+1995	113795	New York	Miami-Dade
+1996	24150	New York	San Francisco
+1997	236031	Miami-Dade	New York
+1998	37311	Los Angeles	Portland
+1999	176206	Chicago	Austin
+2000	59922	Boston	San Francisco
+2001	226305	Miami-Dade	Los Angeles
+2002	136847	Philadelphia	Washington, D.C.
+2003	224659	Los Angeles	Seattle
+2004	224659	Los Angeles	Chicago
+2005	178858	Los Angeles	Honolulu
+2006	66184	Los Angeles	Washington, D.C.
+2007	212781	New York	Austin
+2008	35439	Chicago	Los Angeles
+2009	171632	New York	Orleans
+2010	170320	New York	Chicago
+2011	154585	New York	Honolulu
+2012	28184	New York	Atlanta
+2013	234088	Chicago	San Francisco
+2014	111234	Washington, D.C.	Orleans
+2015	111234	Washington, D.C.	San Francisco
+2016	34156	New York	Austin
+2017	34156	New York	Washington, D.C.
+2018	111238	Chicago	New York
+2019	35208	New York	Miami-Dade
+2020	221553	San Francisco	Austin
+2021	23273	New York	Franklin
+2022	230701	Atlanta	Chicago
+2023	126860	Philadelphia	Washington, D.C.
+2024	25729	Honolulu	San Francisco
+2025	166122	New York	Washington, D.C.
+2026	117790	Los Angeles	Seattle
+2027	27387	Houston	San Francisco
+2028	27387	Houston	New York
+2029	60389	Austin	New York
+2030	99983	New York	Austin
+2031	191452	Chicago	New York
+2032	55802	San Francisco	New York
+2033	19969	Chicago	New York
+2034	19967	New York	Dallas
+2035	22496	Chicago	San Francisco
+2036	238334	Houston	New York
+2037	238334	Houston	Orleans
+2038	34029	New York	Chicago
+2039	124105	Los Angeles	Chicago
+2040	119857	New York	Miami-Dade
+2041	128283	Boston	Austin
+2042	9538	Dallas	Austin
+2043	113092	Los Angeles	Austin
+2044	113092	Los Angeles	New York
+2045	46485	San Francisco	Austin
+2046	150616	Los Angeles	San Francisco
+2047	261204	New York	Miami-Dade
+2048	84113	New York	Orleans
+2049	81760	Seattle	New York
+2050	81760	Seattle	San Diego
+2051	98853	Baltimore	New York
+2052	193802	Chicago	Boston
+2053	75068	Houston	Austin
+2054	45783	New York	Miami-Dade
+2055	45783	New York	Honolulu
+2056	45783	New York	Portland
+2057	241522	New York	Philadelphia
+2058	241522	New York	Washington, D.C.
+2059	222779	Dallas	Los Angeles
+2060	10717	Dallas	Houston
+2061	10717	Dallas	Orleans
+2062	36836	Franklin	Chicago
+2063	14652	Seattle	New York
+2064	14652	Seattle	Portland
+2065	163570	Chicago	New York
+2066	54989	Milwaukee	New York
+2067	163577	Dallas	Houston
+2068	182033	Boston	Los Angeles
+2069	68290	New York	Boston
+2070	68298	Seattle	Los Angeles
+2071	190147	Boston	Austin
+2072	175250	New York	Chicago
+2073	113327	San Francisco	Los Angeles
+2074	118819	New York	Washington, D.C.
+2075	190759	New York	Austin
+2076	108580	New York	Chicago
+2077	18711	Washington, D.C.	Miami-Dade
+2078	171341	Chicago	New York
+2079	10956	San Francisco	Honolulu
+2080	47206	New York	Washington, D.C.
+2081	27600	New York	Philadelphia
+2082	97928	Boston	Los Angeles
+2083	97926	New York	Boston
+2084	78653	Chicago	Austin
+2085	78652	Seattle	San Diego
+2086	78652	Seattle	Chicago
+2087	31751	New York	San Diego
+2088	23377	Dallas	Los Angeles
+2089	193209	New York	Miami-Dade
+2090	88551	Chicago	Orleans
+2091	88551	Chicago	San Francisco
+2092	88551	Chicago	Los Angeles
+2093	12822	Dallas	New York
+2094	26637	Washington, D.C.	New York
+2095	26637	Washington, D.C.	Miami-Dade
+2096	26630	New York	Los Angeles
+2097	26630	New York	Orleans
+2098	7449	New York	Portland
+2099	7449	New York	San Francisco
+2100	121195	Chicago	Washington, D.C.
+2101	217278	New York	Austin
+2102	150370	New York	Orleans
+2103	13071	Dallas	New York
+2104	216903	New York	Los Angeles
+2105	42908	Baltimore	Philadelphia
+2106	240839	New York	Austin
+2107	151577	New York	Miami-Dade
+2108	126491	New York	Los Angeles
+2109	127954	San Francisco	Los Angeles
+2110	5876	Washington, D.C.	Chicago
+2111	93128	New York	Austin
+2112	16018	New York	Washington, D.C.
+2113	93692	Los Angeles	New York
+2114	161834	New York	San Diego
+2115	15867	New York	Seattle
+2116	15867	New York	Baltimore
+2117	4632	Chicago	San Francisco
+2118	120092	Portland	Seattle
+2119	120093	Seattle	San Francisco
+2120	209388	New York	Chicago
+2121	248482	New York	Austin
+2122	181637	Chicago	Los Angeles
+2123	52119	Washington, D.C.	San Francisco
+2124	240305	Boston	Los Angeles
+2125	74210	Milwaukee	Chicago
+2126	251628	Chicago	Los Angeles
+2127	167085	New York	Chicago
+2128	167085	New York	Philadelphia
+2129	155894	Chicago	Los Angeles
+2130	45641	Seattle	San Diego
+2131	192129	Austin	Los Angeles
+2132	77060	New York	Miami-Dade
+2133	116236	Seattle	New York
+2134	209407	New York	Houston
+2135	42148	San Diego	Honolulu
+2136	105600	New York	Chicago
+2137	176443	Atlanta	Miami-Dade
+2138	139047	New York	Minneapolis
+2139	53029	San Francisco	New York
+2140	95194	Atlanta	Orleans
+2141	18941	San Diego	Los Angeles
+2142	142174	New York	Miami-Dade
+2143	78462	Chicago	Milwaukee
+2144	63261	Los Angeles	Chicago
+2145	63261	Los Angeles	San Francisco
+2146	63261	Los Angeles	Honolulu
+2147	63261	Los Angeles	Orleans
+2148	78466	Chicago	New York
+2149	809	San Francisco	San Diego
+2150	809	San Francisco	Los Angeles
+2151	809	San Francisco	Chicago
+2152	8853	New York	Portland
+2153	8853	New York	Seattle
+2154	118296	New York	Austin
+2155	80820	New York	Portland
+2156	80820	New York	Austin
+2157	174596	Atlanta	San Francisco
+2158	10718	Milwaukee	Chicago
+2159	5278	Dallas	New York
+2160	219043	San Francisco	San Diego
+2161	157721	Milwaukee	Chicago
+2162	147055	New York	Miami-Dade
+2163	9638	New York	San Francisco
+2164	62136	Franklin	New York
+2165	55663	New York	Los Angeles
+2166	144985	Austin	Los Angeles
+2167	8707	Dallas	Orleans
+2168	115002	Miami-Dade	New York
+2169	8709	Washington, D.C.	Chicago
+2170	94967	Washington, D.C.	Austin
+2171	145588	San Francisco	San Diego
+2172	178709	Los Angeles	San Francisco
+2173	230669	Los Angeles	New York
+2174	19253	Chicago	San Francisco
+2175	19253	Chicago	New York
+2176	225639	New York	San Francisco
+2177	144184	Los Angeles	Boston
+2178	122323	Boston	San Francisco
+2179	37101	New York	Washington, D.C.
+2180	145761	Los Angeles	Washington, D.C.
+2181	47011	Dallas	New York
+2182	111130	New York	Los Angeles
+2183	15330	Minneapolis	New York
+2184	15333	Los Angeles	San Francisco
+2185	130211	New York	Los Angeles
+2186	233274	Portland	Seattle
+2187	131891	Chicago	New York
+2188	218087	Chicago	Washington, D.C.
+2189	201081	New York	Miami-Dade
+2190	262063	New York	Austin
+2191	224963	New York	Seattle
+2192	131097	New York	Austin
+2193	131095	New York	Baltimore
+2194	98615	San Francisco	Portland
+2195	231137	Chicago	Washington, D.C.
+2196	173101	Los Angeles	Portland
+2197	183975	Milwaukee	Chicago
+2198	73452	Boston	Los Angeles
+2199	73452	Boston	Austin
+2200	7058	New York	San Diego
+2201	9972	New York	Atlanta
+2202	9972	New York	Minneapolis
+2203	88930	Philadelphia	New York
+2204	150586	Baltimore	New York
+2205	231051	New York	San Francisco
+2206	19905	San Francisco	New York
+2207	158358	San Francisco	Portland
+2208	120402	New York	Miami-Dade
+2209	250499	Los Angeles	San Francisco
+2210	49556	Seattle	San Francisco
+2211	221952	New York	Austin
+2212	254397	San Francisco	Seattle
+2213	219865	Milwaukee	Chicago
+2214	122812	New York	Baltimore
+2215	122812	New York	Philadelphia
+2216	204675	Dallas	Chicago
+2217	184706	San Francisco	Washington, D.C.
+2218	184706	San Francisco	Portland
+2219	104219	San Francisco	Chicago
+2220	104219	New York	Portland
+2221	64485	Atlanta	New York
+2222	101788	New York	Los Angeles
+2223	59066	New York	Orleans
+2224	59066	New York	Atlanta
+2225	158767	Los Angeles	San Diego
+2226	68105	Dallas	New York
+2227	75084	New York	Los Angeles
+2228	22824	Chicago	New York
+2229	75080	Atlanta	Orleans
+2230	90258	San Francisco	New York
+2231	57428	Honolulu	San Francisco
+2232	265305	New York	San Diego
+2233	246213	San Francisco	Los Angeles
+2234	23355	New York	Chicago
+2235	208680	New York	Atlanta
+2236	20286	Boston	Chicago
+2237	20286	Boston	Austin
+2238	216070	Dallas	Orleans
+2239	40931	New York	Austin
+2240	198359	New York	Los Angeles
+2241	72081	Washington, D.C.	New York
+2242	72084	Baltimore	Philadelphia
+2243	25884	Dallas	Austin
+2244	47244	New York	Los Angeles
+2245	18085	Austin	Dallas
+2246	78106	Minneapolis	Chicago
+2247	88536	New York	Orleans
+2248	188369	San Francisco	Los Angeles
+2249	123062	San Francisco	New York
+2250	163618	Dallas	Austin
+2251	228274	Boston	Washington, D.C.
+2252	86668	New York	Orleans
+2253	24280	San Francisco	New York
+2254	17283	New York	Portland
+2255	144377	New York	Philadelphia
+2256	131400	Boston	New York
+2257	249336	New York	Boston
+2258	207347	Chicago	Seattle
+2259	266629	Atlanta	Los Angeles
+2260	74902	Chicago	Seattle
+2261	12095	Houston	Orleans
+2262	31955	Washington, D.C.	Los Angeles
+2263	145390	Chicago	Los Angeles
+2264	209410	New York	Austin
+2265	148042	San Francisco	Seattle
+2266	55650	Houston	Austin
+2267	227580	Miami-Dade	New York
+2268	130751	New York	Washington, D.C.
+2269	4610	Atlanta	Austin
+2270	57654	Los Angeles	Austin
+2271	23939	New York	Portland
+2272	186391	Los Angeles	Honolulu
+2273	16693	Chicago	Los Angeles
+2274	251602	New York	Portland
+2275	3342	Los Angeles	Honolulu
+2276	3342	Los Angeles	New York
+2277	166666	New York	Miami-Dade
+2278	166666	New York	Chicago
+2279	3343	Miami-Dade	New York
+2280	237770	Boston	New York
+2281	45628	New York	Orleans
+2282	9169	New York	Honolulu
+2283	218336	Los Angeles	New York
+2284	123522	Los Angeles	New York
+2285	3091	New York	Franklin
+2286	59585	Milwaukee	Chicago
+2287	152244	New York	Los Angeles
+2288	63531	San Francisco	Miami-Dade
+2289	63249	San Francisco	New York
+2290	63249	San Francisco	Austin
+2291	178842	New York	Los Angeles
+2292	141709	New York	San Francisco
+2293	4401	San Francisco	Austin
+2294	4401	San Francisco	Chicago
+2295	80849	Miami-Dade	Los Angeles
+2296	80849	Miami-Dade	New York
+2297	238278	Chicago	New York
+2298	175196	New York	San Francisco
+2299	28412	San Francisco	Seattle
+2300	94901	Dallas	Orleans
+2301	96027	Dallas	Orleans
+2302	237306	Los Angeles	San Diego
+2303	252982	Chicago	San Francisco
+2304	84958	Atlanta	Orleans
+2305	205865	Houston	New York
+2306	225348	New York	Miami-Dade
+2307	225348	New York	Boston
+2308	253162	New York	San Francisco
+2309	154767	Boston	Chicago
+2310	51737	New York	Austin
+2311	159713	New York	Chicago
+2312	259894	Atlanta	Chicago
+2313	96327	Washington, D.C.	Boston
+2314	96327	Washington, D.C.	Austin
+2315	177632	Milwaukee	Chicago
+2316	221046	Chicago	New York
+2317	228023	New York	Boston
+2318	228023	New York	Philadelphia
+2319	73925	New York	Atlanta
+2320	214174	New York	San Francisco
+2321	12046	Los Angeles	San Diego
+2322	214179	New York	Austin
+2323	158338	San Francisco	Austin
+2324	264818	New York	Chicago
+2325	119817	Houston	New York
+2326	252402	New York	Washington, D.C.
+2327	247189	New York	Chicago
+2328	85641	Chicago	New York
+2329	167784	Los Angeles	Philadelphia
+2330	200004	New York	Dallas
+2331	46521	Franklin	Chicago
+2332	265547	Los Angeles	San Diego
+2333	52540	Chicago	Los Angeles
+2334	116158	San Francisco	Chicago
+2335	162153	Boston	San Francisco
+2336	60454	Boston	Washington, D.C.
+2337	105414	Los Angeles	San Diego
+2338	45297	Boston	San Francisco
+2339	246769	New York	Baltimore
+2340	246769	New York	Austin
+2341	2364	Seattle	San Francisco
+2342	207508	New York	Atlanta
+2343	188934	San Francisco	New York
+2344	27588	San Diego	New York
+2345	39394	Philadelphia	Washington, D.C.
+2346	6591	New York	Miami-Dade
+2347	6591	New York	Dallas
+2348	6591	New York	Houston
+2349	99763	San Francisco	New York
+2350	67152	New York	Chicago
+2351	154507	New York	Philadelphia
+2352	193984	Seattle	Chicago
+2353	168783	Los Angeles	Honolulu
+2354	160111	Washington, D.C.	New York
+2355	194451	Los Angeles	San Diego
+2356	194451	Los Angeles	San Francisco
+2357	263498	San Francisco	Austin
+2358	7151	Los Angeles	Honolulu
+2359	45480	New York	Miami-Dade
+2360	149538	San Francisco	Portland
+2361	72204	Chicago	Washington, D.C.
+2362	2899	Washington, D.C.	Los Angeles
+2363	132194	Los Angeles	Washington, D.C.
+2364	129825	Houston	Orleans
+2365	142386	Boston	San Diego
+2366	197189	Atlanta	New York
+2367	207361	Franklin	Austin
+2368	207362	Seattle	San Francisco
+2369	207367	New York	Portland
+2370	207367	New York	San Francisco
+2371	38238	New York	Boston
+2372	73553	New York	Los Angeles
+2373	73553	San Francisco	Chicago
+2374	77783	San Diego	Los Angeles
+2375	181384	New York	Los Angeles
+2376	90577	Los Angeles	Washington, D.C.
+2377	43366	New York	San Diego
+2378	205480	New York	Austin
+2379	259794	Washington, D.C.	New York
+2380	32923	New York	Chicago
+2381	32923	New York	Boston
+2382	32923	New York	Baltimore
+2383	32923	New York	Orleans
+2384	32923	New York	Washington, D.C.
+2385	221702	San Francisco	Miami-Dade
+2386	221702	San Francisco	Austin
+2387	130772	Washington, D.C.	Chicago
+2388	130777	New York	Miami-Dade
+2389	110245	Atlanta	Orleans
+2390	45593	New York	Washington, D.C.
+2391	82350	Los Angeles	Chicago
+2392	61269	Milwaukee	Chicago
+2393	215635	New York	Orleans
+2394	43586	Baltimore	New York
+2395	86851	New York	Minneapolis
+2396	81800	New York	Portland
+2397	81800	New York	Honolulu
+2398	139262	Los Angeles	New York
+2399	98409	New York	Miami-Dade
+2400	98409	New York	San Francisco
+2401	191114	Miami-Dade	New York
+2402	9145	Austin	Dallas
+2403	236271	New York	Miami-Dade
+2404	179806	New York	Los Angeles
+2405	9721	New York	Philadelphia
+2406	9721	New York	Atlanta
+2407	9721	New York	San Francisco
+2408	9721	New York	Portland
+2409	9721	New York	Austin
+2410	113268	Austin	New York
+2411	42987	Los Angeles	Chicago
+2412	21327	New York	Chicago
+2413	42985	New York	Minneapolis
+2414	48481	San Francisco	Austin
+2415	48481	San Francisco	Chicago
+2416	121012	Los Angeles	Austin
+2417	24138	San Francisco	Los Angeles
+2418	246990	New York	San Francisco
+2419	3468	New York	Miami-Dade
+2420	48272	Los Angeles	San Francisco
+2421	138683	Philadelphia	New York
+2422	86472	New York	Chicago
+2423	86470	New York	Baltimore
+2424	86470	New York	Chicago
+2425	159689	San Francisco	Los Angeles
+2426	190647	Seattle	San Francisco
+2427	219005	San Francisco	Austin
+2428	1738	Philadelphia	New York
+2429	172388	Atlanta	Austin
+2430	172388	Atlanta	Washington, D.C.
+2431	264200	San Diego	San Francisco
+2432	178297	New York	Austin
+2433	137374	New York	Philadelphia
+2434	78578	New York	Atlanta
+2435	18329	Seattle	Chicago
+2436	28474	San Francisco	Chicago
+2437	28474	San Francisco	Los Angeles
+2438	14314	Chicago	Washington, D.C.
+2439	207119	Dallas	Austin
+2440	183361	Los Angeles	Orleans
+2441	91157	San Diego	New York
+2442	67525	New York	Miami-Dade
+2443	83980	New York	Boston
+2444	59988	San Diego	Honolulu
+2445	186182	New York	Philadelphia
+2446	115040	Los Angeles	Miami-Dade
+2447	59980	New York	Austin
+2448	226947	Washington, D.C.	New York
+2449	60772	Chicago	San Diego
+2450	89059	Boston	Los Angeles
+2451	178743	San Diego	Los Angeles
+2452	147768	New York	San Francisco
+2453	85920	Washington, D.C.	Chicago
+2454	5647	Chicago	Los Angeles
+2455	245616	Washington, D.C.	New York
+2456	106522	New York	Austin
+2457	59189	Austin	San Francisco
+2458	156142	Atlanta	San Francisco
+2459	129613	San Francisco	New York
+2460	218849	Franklin	Chicago
+2461	23212	Los Angeles	Chicago
+2462	16715	Philadelphia	Los Angeles
+2463	242708	Los Angeles	New York
+2464	48800	New York	Los Angeles
+2465	87406	Portland	Seattle
+2466	109201	New York	Portland
+2467	195915	Dallas	Chicago
+2468	100855	Milwaukee	Chicago
+2469	30923	New York	Minneapolis
+2470	228620	San Diego	New York
+2471	84872	New York	San Francisco
+2472	259307	Seattle	New York
+2473	177384	Atlanta	San Francisco
+2474	50167	New York	Minneapolis
+2475	50167	New York	Austin
+2476	247964	New York	San Francisco
+2477	120043	New York	Austin
+2478	131366	New York	Honolulu
+2479	189477	Baltimore	Philadelphia
+2480	12066	Atlanta	Los Angeles
+2481	21844	New York	Boston
+2482	21662	San Diego	New York
+2483	150678	Philadelphia	Chicago
+2484	135622	Seattle	San Diego
+2485	3670	New York	Miami-Dade
+2486	3670	New York	Los Angeles
+2487	99968	Los Angeles	Honolulu
+2488	99968	Los Angeles	New York
+2489	96656	New York	Boston
+2490	11441	Los Angeles	Honolulu
+2491	11441	Los Angeles	Orleans
+2492	251569	Philadelphia	New York
+2493	204495	Washington, D.C.	Chicago
+2494	249573	Los Angeles	Washington, D.C.
+2495	25828	New York	Philadelphia
+2496	13331	Washington, D.C.	Orleans
+2497	147835	Los Angeles	San Francisco
+2498	112383	Boston	New York
+2499	153329	Chicago	Washington, D.C.
+2500	83408	San Francisco	Miami-Dade
+2501	102789	New York	Austin
+2502	188734	Boston	Chicago
+2503	193865	Portland	Seattle
+2504	42644	New York	San Francisco
+2505	125925	San Francisco	Seattle
+2506	41514	Baltimore	Philadelphia
+2507	199045	Houston	Austin
+2508	57977	Atlanta	Chicago
+2509	57977	Atlanta	Orleans
+2510	71238	Milwaukee	New York
+2511	264072	Los Angeles	New York
+2512	13497	Los Angeles	San Francisco
+2513	123314	San Francisco	Chicago
+2514	107142	Washington, D.C.	Miami-Dade
+2515	107142	Washington, D.C.	Philadelphia
+2516	147578	Chicago	New York
+2517	252021	Los Angeles	San Francisco
+2518	144007	Los Angeles	Philadelphia
+2519	34015	Chicago	New York
+2520	34015	Chicago	Seattle
+2521	224712	New York	Washington, D.C.
+2522	202137	New York	Philadelphia
+2523	224716	Milwaukee	New York
+2524	184102	Dallas	Los Angeles
+2525	184102	Dallas	Orleans
+2526	207566	Boston	New York
+2527	47266	Los Angeles	Washington, D.C.
+2528	129801	New York	Los Angeles
+2529	73799	New York	Chicago
+2530	206508	New York	Miami-Dade
+2531	207308	San Francisco	Los Angeles
+2532	109690	New York	Miami-Dade
+2533	239951	Chicago	San Diego
+2534	76278	Chicago	Los Angeles
+2535	77050	New York	Austin
+2536	77052	New York	Washington, D.C.
+2537	77057	New York	Boston
+2538	16854	Los Angeles	San Diego
+2539	16854	Los Angeles	San Francisco
+2540	16854	Los Angeles	Philadelphia
+2541	11277	Chicago	Los Angeles
+2542	126783	New York	Minneapolis
+2543	43349	Houston	Orleans
+2544	43349	Houston	New York
+2545	66488	New York	Chicago
+2546	107755	New York	Los Angeles
+2547	118728	New York	Chicago
+2548	148006	Dallas	Los Angeles
+2549	150317	New York	Washington, D.C.
+2550	65012	Atlanta	New York
+2551	124065	Miami-Dade	New York
+2552	56918	New York	Washington, D.C.
+2553	25688	Chicago	Orleans
+2554	185766	Dallas	Houston
+2555	185764	New York	Los Angeles
+2556	66112	Franklin	Chicago
+2557	82338	Chicago	San Francisco
+2558	82626	New York	Seattle
+2559	82626	New York	Minneapolis
+2560	82625	New York	Los Angeles
+2561	82625	New York	Orleans
+2562	90251	Atlanta	Los Angeles
+2563	90251	Atlanta	San Francisco
+2564	154367	Boston	New York
+2565	74501	Boston	Washington, D.C.
+2566	74501	Boston	Miami-Dade
+2567	74501	Boston	San Diego
+2568	80662	San Francisco	Honolulu
+2569	108657	Chicago	Seattle
+2570	135299	Los Angeles	Atlanta
+2571	42340	New York	Los Angeles
+2572	42343	Baltimore	Orleans
+2573	235692	San Francisco	New York
+2574	210396	Miami-Dade	New York
+2575	63756	Los Angeles	New York
+2576	261162	Chicago	Los Angeles
+2577	141833	Los Angeles	Austin
+2578	141832	Los Angeles	Philadelphia
+2579	257818	Los Angeles	San Francisco
+2580	53591	New York	Los Angeles
+2581	53591	New York	Boston
+2582	107790	Chicago	New York
+2583	182353	Chicago	Orleans
+2584	21308	San Diego	Honolulu
+2585	71163	Houston	Austin
+2586	56964	Chicago	Orleans
+2587	158463	New York	San Francisco
+2588	247981	New York	Washington, D.C.
+2589	86450	Los Angeles	San Francisco
+2590	80881	Atlanta	Orleans
+2591	209345	Chicago	Los Angeles
+2592	37822	Miami-Dade	Chicago
+2593	4591	Dallas	Chicago
+2594	127504	Minneapolis	New York
+2595	127504	Minneapolis	Chicago
+2596	100445	Atlanta	New York
+2597	237126	Chicago	Los Angeles
+2598	237126	Chicago	Orleans
+2599	179107	New York	San Diego
+2600	168593	Los Angeles	New York
+2601	91179	Dallas	Austin
+2602	91177	Los Angeles	San Francisco
+2603	118537	Washington, D.C.	Los Angeles
+2604	17864	Chicago	Los Angeles
+2605	20641	Los Angeles	Seattle
+2606	263061	Milwaukee	Chicago
+2607	150872	Los Angeles	New York
+2608	206554	Dallas	Houston
+2609	206554	Dallas	New York
+2610	31505	Seattle	Portland
+2611	31505	Seattle	San Francisco
+2612	35021	San Diego	Washington, D.C.
+2613	19473	Dallas	New York
+2614	103688	Seattle	Los Angeles
+2615	119625	Chicago	Milwaukee
+2616	39080	New York	Los Angeles
+2617	88430	New York	Orleans
+2618	245367	New York	Orleans
+2619	110091	New York	Los Angeles
+2620	50107	New York	San Diego
+2621	247941	New York	Baltimore
+2622	253783	Philadelphia	Los Angeles
+2623	181227	San Diego	New York
+2624	241734	Atlanta	Los Angeles
+2625	100085	New York	Atlanta
+2626	166295	New York	Chicago
+2627	172619	Chicago	New York
+2628	90416	San Francisco	Los Angeles
+2629	86516	New York	Chicago
+2630	199134	Dallas	Austin
+2631	82571	New York	Los Angeles
+2632	37581	Houston	Orleans
+2633	102812	Washington, D.C.	San Francisco
+2634	36256	New York	Austin
+2635	75356	New York	Washington, D.C.
+2636	64240	Boston	Washington, D.C.
+2637	146172	Los Angeles	Honolulu
+2638	85688	New York	Chicago
+2639	125499	Los Angeles	New York
+2640	42665	Chicago	Los Angeles
+2641	42664	New York	Minneapolis
+2642	42664	New York	Dallas
+2643	42881	Philadelphia	New York
+2644	264679	San Francisco	New York
+2645	196719	New York	Austin
+2646	53670	Chicago	New York
+2647	83685	Los Angeles	New York
+2648	46732	New York	Houston
+2649	99011	Los Angeles	San Diego
+2650	99011	Los Angeles	San Francisco
+2651	99011	Los Angeles	Seattle
+2652	168924	New York	Orleans
+2653	71212	New York	San Francisco
+2654	187542	New York	San Francisco
+2655	212217	Chicago	Austin
+2656	39504	Philadelphia	Los Angeles
+2657	39505	Austin	New York
+2658	84557	Houston	Austin
+2659	261601	Baltimore	New York
+2660	131608	San Diego	San Francisco
+2661	216189	Los Angeles	New York
+2662	216189	Los Angeles	San Francisco
+2663	154992	New York	Boston
+2664	203909	New York	Austin
+2665	162305	Chicago	New York
+2666	94881	Houston	Orleans
+2667	94882	Minneapolis	Chicago
+2668	13919	Los Angeles	San Francisco
+2669	68271	New York	Miami-Dade
+2670	170750	New York	Los Angeles
+2671	33470	New York	Philadelphia
+2672	77534	New York	Austin
+2673	34038	Miami-Dade	Chicago
+2674	68907	New York	Washington, D.C.
+2675	51354	Chicago	New York
+2676	27794	Seattle	New York
+2677	130736	Los Angeles	Atlanta
+2678	85152	Chicago	New York
+2679	82315	Washington, D.C.	New York
+2680	165954	New York	Orleans
+2681	210009	New York	Minneapolis
+2682	74292	New York	San Diego
+2683	193643	Los Angeles	Orleans
+2684	193643	Los Angeles	Austin
+2685	105130	San Francisco	Seattle
+2686	227560	San Diego	New York
+2687	17148	San Diego	San Francisco
+2688	177191	Washington, D.C.	Chicago
+2689	221812	San Diego	Washington, D.C.
+2690	57544	Seattle	Portland
+2691	70614	New York	Austin
+2692	227745	New York	Washington, D.C.
+2693	12297	Atlanta	Chicago
+2694	69737	New York	Austin
+2695	69043	Washington, D.C.	Philadelphia
+2696	81662	New York	Washington, D.C.
+2697	81844	New York	Seattle
+2698	260376	Miami-Dade	New York
+2699	63556	Los Angeles	San Diego
+2700	113221	Los Angeles	San Diego
+2701	21363	New York	Chicago
+2702	200453	Miami-Dade	New York
+2703	37442	Portland	Seattle
+2704	135814	San Francisco	Seattle
+2705	102886	New York	Los Angeles
+2706	102886	New York	San Francisco
+2707	141766	New York	Austin
+2708	45370	Philadelphia	Washington, D.C.
+2709	17581	Austin	Los Angeles
+2710	105707	New York	Philadelphia
+2711	90997	Los Angeles	Honolulu
+2712	4586	Seattle	Portland
+2713	4586	Seattle	Chicago
+2714	168609	New York	Los Angeles
+2715	71668	Washington, D.C.	New York
+2716	11986	San Francisco	New York
+2717	13166	Chicago	Miami-Dade
+2718	14359	New York	Chicago
+2719	17919	Los Angeles	San Diego
+2720	27409	San Francisco	Chicago
+2721	115776	New York	Houston
+2722	27407	New York	Austin
+2723	87037	Washington, D.C.	New York
+2724	66383	Washington, D.C.	New York
+2725	79946	New York	Washington, D.C.
+2726	147011	Dallas	Austin
+2727	143862	Dallas	Chicago
+2728	159588	San Francisco	New York
+2729	29039	Boston	Washington, D.C.
+2730	195950	New York	Franklin
+2731	110902	New York	Boston
+2732	110902	New York	Miami-Dade
+2733	445	New York	Austin
+2734	150859	New York	Chicago
+2735	49277	New York	Los Angeles
+2736	49277	New York	Washington, D.C.
+2737	29263	New York	Austin
+2738	20487	New York	Boston
+2739	31075	New York	Chicago
+2740	117739	Los Angeles	Orleans
+2741	121016	Philadelphia	New York
+2742	111471	Washington, D.C.	Orleans
+2743	184318	New York	Honolulu
+2744	244965	New York	Washington, D.C.
+2745	162385	San Francisco	New York
+2746	119644	New York	Boston
+2747	73980	New York	Austin
+2748	212322	Los Angeles	New York
+2749	219400	Atlanta	Washington, D.C.
+2750	77155	New York	Chicago
+2751	86316	Miami-Dade	New York
+2752	209368	Los Angeles	San Diego
+2753	3637	Philadelphia	Washington, D.C.
+2754	116462	New York	Dallas
+2755	116462	New York	Los Angeles
+2756	244291	Los Angeles	New York
+2757	51658	Franklin	New York
+2758	52072	Washington, D.C.	Boston
+2759	52072	Washington, D.C.	San Francisco
+2760	17464	New York	Chicago
+2761	170985	New York	Honolulu
+2762	167490	New York	Honolulu
+2763	209487	Houston	Los Angeles
+2764	218115	New York	Orleans
+2765	945	Washington, D.C.	Boston
+2766	87203	New York	Austin
+2767	41054	New York	Chicago
+2768	118818	New York	Orleans
+2769	16844	Houston	Orleans
+2770	16840	New York	Los Angeles
+2771	12173	Los Angeles	Chicago
+2772	12173	Los Angeles	Miami-Dade
+2773	46583	New York	Atlanta
+2774	59864	Baltimore	Orleans
+2775	162719	New York	Austin
+2776	113694	Los Angeles	San Francisco
+2777	9662	Portland	Seattle
+2778	247217	Washington, D.C.	Chicago
+2779	198482	San Francisco	New York
+2780	114774	Dallas	Austin
+2781	142059	Milwaukee	New York
+2782	142050	Houston	Orleans
+2783	102129	Houston	New York
+2784	179312	New York	Washington, D.C.
+2785	152013	New York	Austin
+2786	37632	Chicago	New York
+2787	37632	Chicago	Orleans
+2788	68894	Los Angeles	San Diego
+2789	68894	Los Angeles	Portland
+2790	68893	Seattle	Los Angeles
+2791	34237	Washington, D.C.	New York
+2792	234452	San Francisco	Los Angeles
+2793	35183	Houston	New York
+2794	77895	San Diego	San Francisco
+2795	234635	Boston	Los Angeles
+2796	188860	Atlanta	New York
+2797	144043	New York	Chicago
+2798	138768	New York	Orleans
+2799	138768	New York	San Francisco
+2800	225223	New York	Baltimore
+2801	256819	Los Angeles	San Francisco
+2802	11819	New York	Boston
+2803	129848	New York	Los Angeles
+2804	109424	New York	Chicago
+2805	324	San Francisco	Honolulu
+2806	324	San Francisco	Los Angeles
+2807	324	San Francisco	San Diego
+2808	324	San Francisco	Seattle
+2809	77098	Los Angeles	San Diego
+2810	137376	Miami-Dade	Los Angeles
+2811	88179	San Francisco	Chicago
+2812	84847	San Francisco	Seattle
+2813	84847	San Francisco	Austin
+2814	221764	Washington, D.C.	New York
+2815	121210	New York	Miami-Dade
+2816	152577	Boston	New York
+2817	173458	New York	Los Angeles
+2818	173458	New York	Austin
+2819	3404	New York	Houston
+2820	190590	New York	Portland
+2821	56926	New York	Miami-Dade
+2822	57036	Los Angeles	New York
+2823	50068	Miami-Dade	Los Angeles
+2824	50068	Miami-Dade	New York
+2825	4031	Atlanta	Washington, D.C.
+2826	70513	New York	Chicago
+2827	231865	New York	Miami-Dade
+2828	33495	Chicago	Los Angeles
+2829	71645	New York	Washington, D.C.
+2830	71645	New York	Minneapolis
+2831	71645	New York	Austin
+2832	138499	New York	San Francisco
+2833	83984	San Francisco	Chicago
+2834	20696	Houston	San Francisco
+2835	185842	Los Angeles	Miami-Dade
+2836	230351	Miami-Dade	New York
+2837	48163	New York	Los Angeles
+2838	91136	New York	Austin
+2839	122566	New York	Orleans
+2840	122566	New York	Los Angeles
+2841	75390	New York	San Francisco
+2842	137139	San Francisco	San Diego
+2843	137139	San Francisco	Seattle
+2844	133168	Boston	Washington, D.C.
+2845	202349	Minneapolis	New York
+2846	147070	New York	Washington, D.C.
+2847	161709	Houston	Austin
+2848	137396	Los Angeles	New York
+2849	7092	Los Angeles	New York
+2850	156470	New York	Washington, D.C.
+2851	238121	Houston	Orleans
+2852	174247	New York	Miami-Dade
+2853	174247	New York	Boston
+2854	76556	Washington, D.C.	Los Angeles
+2855	76552	New York	Seattle
+2856	76553	Chicago	New York
+2857	76553	Chicago	Austin
+2858	76553	Chicago	Washington, D.C.
+2859	171140	New York	San Francisco
+2860	171140	New York	Orleans
+2861	39334	New York	Philadelphia
+2862	11134	New York	Chicago
+2863	11134	New York	Portland
+2864	229403	New York	Washington, D.C.
+2865	221593	Washington, D.C.	New York
+2866	221593	Washington, D.C.	Los Angeles
+2867	25600	Chicago	Boston
+2868	25600	New York	Minneapolis
+2869	3182	Dallas	Orleans
+2870	245232	Los Angeles	Seattle
+2871	261712	Seattle	San Francisco
+2872	241267	San Francisco	Chicago
+2873	77173	Chicago	Orleans
+2874	263974	New York	Miami-Dade
+2875	150576	New York	Los Angeles
+2876	89164	New York	Boston
+2877	89168	Chicago	San Francisco
+2878	170541	Los Angeles	New York
+2879	239389	Dallas	Austin
+2880	94215	Austin	Los Angeles
+2881	145120	Los Angeles	Honolulu
+2882	145120	Los Angeles	New York
+2883	209261	New York	Miami-Dade
+2884	209261	New York	Chicago
+2885	186288	New York	Los Angeles
+2886	140571	Atlanta	Los Angeles
+2887	140571	Atlanta	Miami-Dade
+2888	98815	New York	San Francisco
+2889	98815	New York	Orleans
+2890	23032	Chicago	Los Angeles
+2891	64289	Los Angeles	Austin
+2892	99273	Seattle	Chicago
+2893	254199	New York	Baltimore
+2894	166030	New York	Orleans
+2895	231384	New York	San Diego
+2896	10134	New York	San Francisco
+2897	135160	Dallas	Austin
+2898	107438	Los Angeles	Washington, D.C.
+2899	101829	Milwaukee	Chicago
+2900	49680	New York	Houston
+2901	109753	Boston	New York
+2902	3215	New York	Los Angeles
+2903	160393	Washington, D.C.	New York
+2904	49974	New York	Chicago
+2905	41023	New York	Chicago
+2906	41023	New York	Los Angeles
+2907	138450	New York	Honolulu
+2908	169877	San Diego	San Francisco
+2909	14256	San Francisco	Miami-Dade
+2910	14256	San Francisco	New York
+2911	14256	San Francisco	Chicago
+2912	168472	New York	San Francisco
+2913	168472	New York	Austin
+2914	168471	Portland	Seattle
+2915	168475	Washington, D.C.	Los Angeles
+2916	168475	Washington, D.C.	Austin
+2917	164081	New York	Austin
+2918	47971	New York	Orleans
+2919	47971	New York	Portland
+2920	5426	New York	San Francisco
+2921	5422	Austin	Los Angeles
+2922	174669	San Francisco	San Diego
+2923	166223	San Francisco	Los Angeles
+2924	237441	San Francisco	Los Angeles
+2925	166222	Washington, D.C.	Orleans
+2926	166222	Washington, D.C.	New York
+2927	164776	Seattle	Portland
+2928	31135	New York	San Francisco
+2929	75187	Austin	New York
+2930	79252	San Francisco	Orleans
+2931	79252	San Francisco	New York
+2932	79252	San Francisco	Honolulu
+2933	225201	Houston	Austin
+2934	40	Baltimore	Philadelphia
+2935	252043	New York	Austin
+2936	89282	Milwaukee	New York
+2937	89573	San Diego	Los Angeles
+2938	196314	New York	Orleans
+2939	206906	New York	Los Angeles
+2940	94005	Philadelphia	Chicago
+2941	23993	Boston	San Francisco
+2942	23993	New York	Atlanta
+2943	133843	Los Angeles	San Diego
+2944	206014	New York	Washington, D.C.
+2945	176926	New York	Minneapolis
+2946	32306	New York	Orleans
+2947	16675	Miami-Dade	New York
+2948	114036	Houston	Orleans
+2949	231175	Chicago	Orleans
+2950	124003	Miami-Dade	New York
+2951	231264	Los Angeles	Portland
+2952	199054	New York	San Francisco
+2953	39066	Austin	Dallas
+2954	75619	Miami-Dade	New York
+2955	244467	Los Angeles	San Francisco
+2956	244467	Los Angeles	Boston
+2957	244464	New York	Chicago
+2958	166042	Baltimore	Orleans
+2959	57051	New York	Miami-Dade
+2960	191197	Washington, D.C.	New York
+2961	191197	Washington, D.C.	San Francisco
+2962	123774	Los Angeles	New York
+2963	53023	Los Angeles	Boston
+2964	152452	New York	Houston
+2965	58855	Atlanta	Washington, D.C.
+2966	54559	Miami-Dade	Chicago
+2967	54552	Atlanta	New York
+2968	193876	Los Angeles	New York
+2969	70392	Chicago	San Diego
+2970	10302	Los Angeles	San Francisco
+2971	148525	Austin	Los Angeles
+2972	186100	Washington, D.C.	Miami-Dade
+2973	225831	Washington, D.C.	New York
+2974	256174	San Francisco	New York
+2975	68910	Houston	Los Angeles
+2976	174220	Minneapolis	New York
+2977	178213	Chicago	Seattle
+2978	120969	Atlanta	Chicago
+2979	189913	New York	Los Angeles
+2980	218562	New York	Minneapolis
+2981	218562	New York	Austin
+2982	147278	New York	Minneapolis
+2983	181728	Chicago	Austin
+2984	181728	Washington, D.C.	New York
+2985	1814	Los Angeles	Honolulu
+2986	143195	New York	Orleans
+2987	39350	New York	Washington, D.C.
+2988	95307	New York	Minneapolis
+2989	95307	New York	Philadelphia
+2990	123148	Houston	Los Angeles
+2991	123148	Houston	Austin
+2992	114860	San Francisco	Austin
+2993	221205	Houston	New York
+2994	47501	New York	Minneapolis
+2995	47501	New York	Austin
+2996	8681	Seattle	San Diego
+2997	147059	Los Angeles	San Diego
+2998	127398	Los Angeles	San Diego
+2999	24418	Boston	Los Angeles
+3000	245258	Minneapolis	New York
+3001	245251	Washington, D.C.	Philadelphia
+3002	245251	Washington, D.C.	New York
+3003	91510	San Francisco	Austin
+3004	19143	Boston	New York
+3005	56221	Atlanta	New York
+3006	35441	Atlanta	San Francisco
+3007	23873	New York	Los Angeles
+3008	101158	New York	San Francisco
+3009	9872	Boston	San Francisco
+3010	93058	New York	Orleans
+3011	153019	Los Angeles	San Diego
+3012	153017	New York	San Francisco
+3013	64113	Washington, D.C.	Orleans
+3014	61295	San Diego	Los Angeles
+3015	36230	New York	Los Angeles
+3016	140880	Chicago	Los Angeles
+3017	42029	Houston	New York
+3018	140338	Atlanta	Chicago
+3019	223554	Los Angeles	Austin
+3020	161994	New York	San Francisco
+3021	121395	Los Angeles	San Diego
+3022	233856	Atlanta	Washington, D.C.
+3023	39915	San Francisco	New York
+3024	61834	New York	Miami-Dade
+3025	52030	Chicago	Orleans
+3026	36493	Austin	New York
+3027	53615	San Francisco	San Diego
+3028	53615	San Francisco	Los Angeles
+3029	90074	Boston	Washington, D.C.
+3030	207635	Chicago	Los Angeles
+3031	207635	Chicago	New York
+3032	54964	New York	Boston
+3033	39766	New York	Philadelphia
+3034	39766	New York	Miami-Dade
+3035	113437	Miami-Dade	New York
+3036	40175	Washington, D.C.	New York
+3037	49956	San Francisco	Orleans
+3038	49956	San Francisco	Miami-Dade
+3039	49957	Los Angeles	New York
+3040	49957	Los Angeles	Philadelphia
+3041	238881	Los Angeles	San Francisco
+3042	58193	Los Angeles	New York
+3043	96896	New York	Austin
+3044	148464	Philadelphia	Chicago
+3045	45092	New York	Washington, D.C.
+3046	78495	New York	Philadelphia
+3047	238086	Boston	Austin
+3048	58442	Chicago	Boston
+3049	197064	Dallas	Orleans
+3050	151622	Washington, D.C.	Philadelphia
+3051	130522	Los Angeles	Portland
+3052	117159	San Francisco	Los Angeles
+3053	143760	San Francisco	New York
+3054	78720	San Francisco	Austin
+3055	256565	Dallas	Austin
+3056	132240	Austin	Los Angeles
+3057	132240	Austin	San Francisco
+3058	87605	New York	Minneapolis
+3059	87605	New York	Austin
+3060	106933	Los Angeles	San Francisco
+3061	15606	New York	San Francisco
+3062	15606	New York	Chicago
+3063	103140	New York	Chicago
+3064	103140	New York	Austin
+3065	238076	Dallas	New York
+3066	129730	Atlanta	Austin
+3067	89809	New York	Austin
+3068	76181	Houston	Austin
+3069	225082	New York	Seattle
+3070	225082	New York	Los Angeles
+3071	129889	Los Angeles	New York
+3072	263528	New York	Washington, D.C.
+3073	147837	Atlanta	Washington, D.C.
+3074	147837	Atlanta	New York
+3075	34638	New York	Philadelphia
+3076	78875	New York	Los Angeles
+3077	367	New York	San Francisco
+3078	31378	San Francisco	Honolulu
+3079	264082	San Francisco	New York
+3080	32679	New York	Miami-Dade
+3081	19601	Chicago	New York
+3082	76771	Seattle	Chicago
+3083	88606	New York	Austin
+3084	6175	San Diego	Washington, D.C.
+3085	259194	Houston	Los Angeles
+3086	150285	San Francisco	New York
+3087	227819	Washington, D.C.	Orleans
+3088	263833	Dallas	New York
+3089	215926	New York	Washington, D.C.
+3090	220454	Milwaukee	Chicago
+3091	119535	New York	Minneapolis
+3092	119539	Houston	Austin
+3093	75983	Los Angeles	New York
+3094	97666	Los Angeles	Portland
+3095	75674	San Diego	San Francisco
+3096	236264	Dallas	New York
+3097	9432	New York	Portland
+3098	9432	New York	Philadelphia
+3099	62403	Chicago	New York
+3100	122707	San Francisco	Los Angeles
+3101	122707	San Francisco	New York
+3102	231823	New York	Miami-Dade
+3103	222162	New York	Los Angeles
+3104	17749	Boston	San Diego
+3105	152285	Los Angeles	San Francisco
+3106	198568	New York	Washington, D.C.
+3107	210426	New York	Boston
+3108	198564	Los Angeles	New York
+3109	123618	Chicago	New York
+3110	10211	Miami-Dade	New York
+3111	131137	Boston	Los Angeles
+3112	63226	Los Angeles	Miami-Dade
+3113	174750	Los Angeles	Honolulu
+3114	174751	New York	Philadelphia
+3115	19698	New York	Austin
+3116	37754	New York	Minneapolis
+3117	37754	New York	Dallas
+3118	137680	Los Angeles	Washington, D.C.
+3119	217993	New York	Los Angeles
+3120	43896	New York	Franklin
+3121	144566	San Diego	Washington, D.C.
+3122	111367	Franklin	Austin
+3123	137539	Seattle	Chicago
+3124	137539	Seattle	Portland
+3125	137539	Seattle	Los Angeles
+3126	137538	Franklin	New York
+3127	216861	Dallas	Orleans
+3128	9990	Los Angeles	Chicago
+3129	9990	Los Angeles	New York
+3130	212341	San Diego	Los Angeles
+3131	108202	Atlanta	Austin
+3132	157345	San Diego	San Francisco
+3133	106898	New York	Austin
+3134	114518	San Francisco	Austin
+3135	114518	San Francisco	New York
+3136	165743	Miami-Dade	New York
+3137	165747	Los Angeles	Washington, D.C.
+3138	259859	Boston	New York
+3139	181554	Chicago	Austin
+3140	215594	New York	Austin
+3141	102785	Houston	Austin
+3142	51632	Franklin	Chicago
+3143	51636	Chicago	Los Angeles
+3144	175440	Atlanta	Orleans
+3145	213430	New York	Minneapolis
+3146	41999	New York	San Francisco
+3147	41999	New York	Austin
+3148	240570	Chicago	San Francisco
+3149	215772	New York	San Diego
+3150	25411	Los Angeles	New York
+3151	127980	Chicago	Washington, D.C.
+3152	64135	Franklin	Chicago
+3153	154527	Los Angeles	Chicago
+3154	80768	San Francisco	Honolulu
+3155	74448	Los Angeles	Washington, D.C.
+3156	154526	New York	Chicago
+3157	42559	New York	Boston
+3158	139104	New York	Boston
+3159	42556	Minneapolis	New York
+3160	139100	Los Angeles	New York
+3161	42000	New York	San Francisco
+3162	50182	San Francisco	Los Angeles
+3163	37393	Los Angeles	Washington, D.C.
+3164	194065	New York	Los Angeles
+3165	93975	New York	Minneapolis
+3166	141911	Boston	Miami-Dade
+3167	112327	Boston	Washington, D.C.
+3168	150085	New York	Austin
+3169	209375	New York	Philadelphia
+3170	44129	Los Angeles	Austin
+3171	15025	Chicago	New York
+3172	40157	Washington, D.C.	Orleans
+3173	3250	New York	Austin
+3174	3250	New York	Orleans
+3175	98940	New York	Chicago
+3176	87744	New York	San Francisco
+3177	158612	Chicago	San Francisco
+3178	71165	Los Angeles	Miami-Dade
+3179	170553	San Francisco	Seattle
+3180	170553	San Francisco	New York
+3181	207014	Boston	New York
+3182	58317	Houston	Los Angeles
+3183	30514	New York	Washington, D.C.
+3184	143746	New York	Washington, D.C.
+3185	38769	New York	Austin
+3186	38769	New York	Chicago
+3187	264094	Dallas	Austin
+3188	252888	New York	Austin
+3189	252888	New York	Los Angeles
+3190	115670	San Diego	Los Angeles
+3191	54933	New York	Portland
+3192	238202	Houston	Austin
+3193	114985	Seattle	Los Angeles
+3194	132267	New York	Los Angeles
+3195	196680	New York	Austin
+3196	137944	Philadelphia	Washington, D.C.
+3197	195149	Los Angeles	San Francisco
+3198	47311	New York	Minneapolis
+3199	136011	Atlanta	New York
+3200	185251	New York	San Francisco
+3201	256704	New York	Austin
+3202	188287	Minneapolis	New York
+3203	11172	Dallas	Los Angeles
+3204	2488	New York	Los Angeles
+3205	15030	Los Angeles	San Francisco
+3206	179132	Chicago	New York
+3207	72468	San Francisco	Honolulu
+3208	109092	San Francisco	New York
+3209	109092	San Francisco	Seattle
+3210	35698	Washington, D.C.	New York
+3211	31395	New York	Seattle
+3212	180015	San Francisco	Honolulu
+3213	13882	Washington, D.C.	Chicago
+3214	93755	Los Angeles	San Diego
+3215	11352	Los Angeles	San Francisco
+3216	11352	Los Angeles	San Diego
+3217	196707	Boston	New York
+3218	65302	Minneapolis	Chicago
+3219	62530	New York	Dallas
+3220	141277	Miami-Dade	Chicago
+3221	22755	New York	Philadelphia
+3222	114724	Philadelphia	New York
+3223	75652	Washington, D.C.	Los Angeles
+3224	97649	Chicago	Los Angeles
+3225	204592	Washington, D.C.	Austin
+3226	106245	New York	San Diego
+3227	32077	Chicago	Los Angeles
+3228	218052	San Francisco	New York
+3229	60756	Miami-Dade	New York
+3230	192593	New York	Los Angeles
+3231	90267	New York	Philadelphia
+3232	125719	New York	Austin
+3233	152515	Chicago	Washington, D.C.
+3234	152515	Chicago	Orleans
+3235	27956	San Francisco	Chicago
+3236	27956	San Francisco	Portland
+3237	118979	New York	Austin
+3238	185826	New York	Austin
+3239	190285	New York	San Francisco
+3240	198766	New York	Miami-Dade
+3241	204332	Los Angeles	Austin
+3242	62680	Washington, D.C.	Chicago
+3243	41412	New York	Chicago
+3244	41412	New York	Philadelphia
+3245	39708	Dallas	Los Angeles
+3246	63080	Baltimore	Philadelphia
+3247	7314	Philadelphia	Orleans
+3248	30294	San Francisco	New York
+3249	133497	New York	Austin
+3250	7311	Chicago	Seattle
+3251	95736	Los Angeles	San Diego
+3252	95736	Los Angeles	Miami-Dade
+3253	33432	Los Angeles	San Diego
+3254	8115	New York	Boston
+3255	12906	Miami-Dade	Los Angeles
+3256	66668	San Diego	New York
+3257	38017	Atlanta	Washington, D.C.
+3258	68481	Boston	New York
+3259	176883	Washington, D.C.	Philadelphia
+3260	30707	New York	Washington, D.C.
+3261	175793	San Francisco	Portland
+3262	123673	San Francisco	Washington, D.C.
+3263	160140	New York	Atlanta
+3264	160140	New York	Chicago
+3265	79190	New York	Chicago
+3266	158808	Boston	New York
+3267	77335	Los Angeles	New York
+3268	249235	Boston	Chicago
+3269	28251	San Francisco	Seattle
+3270	14538	San Francisco	Honolulu
+3271	91472	New York	Orleans
+3272	91472	New York	Austin
+3273	109791	San Francisco	New York
+3274	79376	New York	Minneapolis
+3275	79376	New York	Chicago
+3276	106873	Washington, D.C.	New York
+3277	77483	New York	Atlanta
+3278	245072	San Francisco	Los Angeles
+3279	94970	San Francisco	Honolulu
+3280	133734	Philadelphia	Baltimore
+3281	61305	Boston	New York
+3282	11489	Miami-Dade	Los Angeles
+3283	11482	San Diego	San Francisco
+3284	253768	New York	Miami-Dade
+3285	17495	New York	San Francisco
+3286	161954	New York	Austin
+3287	200827	Dallas	Austin
+3288	10821	Los Angeles	San Diego
+3289	10821	Los Angeles	Portland
+3290	98703	New York	Austin
+3291	177709	New York	Austin
+3292	235795	Atlanta	Chicago
+3293	7811	New York	Austin
+3294	53163	San Diego	Honolulu
+3295	53163	San Diego	Los Angeles
+3296	63653	New York	San Francisco
+3297	63653	New York	Chicago
+3298	177035	Washington, D.C.	New York
+3299	166090	San Francisco	Chicago
+3300	149007	San Francisco	New York
+3301	46076	New York	Los Angeles
+3302	49196	Washington, D.C.	Orleans
+3303	204878	New York	Austin
+3304	204878	New York	Washington, D.C.
+3305	260232	San Francisco	Austin
+3306	249824	New York	Austin
+3307	1821	San Francisco	Los Angeles
+3308	1821	San Francisco	San Diego
+3309	2412	New York	Baltimore
+3310	156341	Houston	Los Angeles
+3311	168149	Philadelphia	Chicago
+3312	190745	Chicago	Los Angeles
+3313	116021	New York	Austin
+3314	138436	Seattle	New York
+3315	13220	New York	Chicago
+3316	13220	New York	Orleans
+3317	168362	Los Angeles	New York
+3318	62744	San Francisco	New York
+3319	62744	San Francisco	Portland
+3320	177425	New York	Philadelphia
+3321	20026	New York	Orleans
+3322	251986	Boston	San Francisco
+3323	36635	Miami-Dade	New York
+3324	148719	Philadelphia	Orleans
+3325	60	New York	Dallas
+3326	103104	San Francisco	Portland
+3327	41620	Boston	Chicago
+3328	56292	Los Angeles	Philadelphia
+3329	99610	New York	Dallas
+3330	87645	Minneapolis	Chicago
+3331	150937	New York	San Francisco
+3332	77811	New York	Chicago
+3333	78767	Chicago	New York
+3334	72335	Chicago	Washington, D.C.
+3335	234014	New York	Orleans
+3336	72331	New York	Minneapolis
+3337	55471	Philadelphia	New York
+3338	88469	Los Angeles	Washington, D.C.
+3339	34671	New York	Chicago
+3340	184238	San Francisco	Austin
+3341	126745	Los Angeles	San Francisco
+3342	257058	New York	Austin
+3343	154638	New York	Baltimore
+3344	224393	Dallas	Houston
+3345	266157	Atlanta	Washington, D.C.
+3346	151221	Atlanta	Austin
+3347	114168	Chicago	New York
+3348	225957	Los Angeles	Philadelphia
+3349	119573	San Francisco	Los Angeles
+3350	43345	Atlanta	Orleans
+3351	43561	Los Angeles	Washington, D.C.
+3352	127960	New York	Miami-Dade
+3353	32635	San Francisco	Los Angeles
+3354	224821	Philadelphia	Orleans
+3355	4567	Los Angeles	San Diego
+3356	119634	Los Angeles	San Francisco
+3357	116703	Boston	New York
+3358	116703	Boston	Washington, D.C.
+3359	104688	Chicago	New York
+3360	33879	Baltimore	New York
+3361	24914	New York	Chicago
+3362	24914	New York	Boston
+3363	24914	New York	Los Angeles
+3364	24914	New York	Miami-Dade
+3365	253240	San Francisco	San Diego
+3366	62063	New York	Los Angeles
+3367	181078	New York	Chicago
+3368	62413	San Diego	New York
+3369	260211	New York	Los Angeles
+3370	64367	New York	Orleans
+3371	56392	New York	Orleans
+3372	56392	New York	Portland
+3373	118226	San Francisco	New York
+3374	48479	Miami-Dade	New York
+3375	45779	New York	San Francisco
+3376	21690	New York	Atlanta
+3377	198525	Los Angeles	Chicago
+3378	198525	Los Angeles	New York
+3379	198528	Miami-Dade	New York
+3380	33418	San Francisco	Los Angeles
+3381	33418	San Francisco	Miami-Dade
+3382	33418	San Francisco	Washington, D.C.
+3383	222797	Los Angeles	Chicago
+3384	30143	New York	Miami-Dade
+3385	125335	Chicago	Miami-Dade
+3386	125335	Chicago	Los Angeles
+3387	10256	New York	Honolulu
+3388	37159	San Diego	Los Angeles
+3389	78590	Washington, D.C.	Philadelphia
+3390	158793	Boston	Miami-Dade
+3391	211805	San Francisco	Chicago
+3392	211805	San Francisco	Honolulu
+3393	68465	New York	Los Angeles
+3394	68465	New York	Orleans
+3395	184005	San Francisco	Austin
+3396	24343	Miami-Dade	New York
+3397	1023	Chicago	Orleans
+3398	108792	Los Angeles	New York
+3399	248629	San Francisco	Seattle
+3400	248629	San Francisco	New York
+3401	76331	Boston	New York
+3402	76334	Los Angeles	Orleans
+3403	82486	Houston	Orleans
+3404	89695	Washington, D.C.	Miami-Dade
+3405	3104	Milwaukee	Chicago
+3406	30725	New York	Portland
+3407	186695	San Francisco	San Diego
+3408	111105	New York	Portland
+3409	111105	New York	Austin
+3410	233772	Franklin	New York
+3411	147616	Philadelphia	Baltimore
+3412	188585	San Francisco	Orleans
+3413	263926	Milwaukee	Chicago
+3414	19122	Los Angeles	New York
+3415	145619	Miami-Dade	New York
+3416	240755	Los Angeles	New York
+3417	109115	New York	Minneapolis
+3418	231779	Chicago	San Diego
+3419	113450	Washington, D.C.	San Francisco
+3420	241916	Boston	New York
+3421	248698	San Francisco	Austin
+3422	88693	Honolulu	San Francisco
+3423	97011	Austin	Los Angeles
+3424	255961	New York	Philadelphia
+3425	166520	San Francisco	Austin
+3426	107810	Washington, D.C.	Boston
+3427	56244	Los Angeles	Chicago
+3428	132139	New York	Miami-Dade
+3429	136970	Houston	Austin
+3430	61855	Milwaukee	New York
+3431	173739	Los Angeles	Honolulu
+3432	117397	Washington, D.C.	New York
+3433	117397	Washington, D.C.	Los Angeles
+3434	119902	New York	San Francisco
+3435	52090	Houston	San Francisco
+3436	2386	Los Angeles	New York
+3437	49608	Boston	New York
+3438	134265	New York	Washington, D.C.
+3439	191986	Los Angeles	Seattle
+3440	43606	Chicago	San Francisco
+3441	199607	Los Angeles	New York
+3442	168168	Seattle	Portland
+3443	160313	New York	Honolulu
+3444	140326	San Diego	Honolulu
+3445	3299	New York	Washington, D.C.
+3446	204466	Chicago	Boston
+3447	264368	Los Angeles	New York
+3448	1903	Los Angeles	Miami-Dade
+3449	1903	Los Angeles	Chicago
+3450	148483	Chicago	New York
+3451	36389	Houston	Los Angeles
+3452	36389	Houston	New York
+3453	235518	Austin	New York
+3454	58359	San Francisco	San Diego
+3455	58359	San Francisco	New York
+3456	94733	New York	Los Angeles
+3457	68695	San Francisco	Miami-Dade
+3458	68695	San Francisco	New York
+3459	41603	Los Angeles	San Diego
+3460	175297	New York	Boston
+3461	231544	Seattle	Los Angeles
+3462	263587	New York	Los Angeles
+3463	73807	San Francisco	Honolulu
+3464	73807	San Francisco	Chicago
+3465	114824	New York	Seattle
+3466	142074	New York	Philadelphia
+3467	142074	New York	Boston
+3468	79438	Washington, D.C.	New York
+3469	79437	New York	Los Angeles
+3470	55187	New York	Los Angeles
+3471	8428	Boston	Los Angeles
+3472	197222	Los Angeles	San Francisco
+3473	50383	Los Angeles	New York
+3474	50383	Los Angeles	San Diego
+3475	118235	Dallas	Chicago
+3476	10304	Seattle	New York
+3477	61444	New York	Miami-Dade
+3478	61444	New York	Baltimore
+3479	61115	Dallas	New York
+3480	61110	Miami-Dade	New York
+3481	100783	Chicago	Los Angeles
+3482	4135	Philadelphia	New York
+3483	55456	Chicago	Austin
+3484	32435	New York	Miami-Dade
+3485	38333	New York	Miami-Dade
+3486	266171	San Diego	Honolulu
+3487	235067	Houston	Orleans
+3488	16435	Chicago	Miami-Dade
+3489	16435	Chicago	Los Angeles
+3490	244391	Miami-Dade	New York
+3491	104375	Washington, D.C.	New York
+3492	230825	San Francisco	New York
+3493	51205	Atlanta	Washington, D.C.
+3494	101782	Seattle	Chicago
+3495	5965	Chicago	San Francisco
+3496	106202	Philadelphia	Baltimore
+3497	90954	Atlanta	Chicago
+3498	64692	New York	Austin
+3499	4542	New York	Houston
+3500	65342	New York	Minneapolis
+3501	65342	New York	Houston
+3502	126841	Los Angeles	Atlanta
+3503	140724	San Diego	Los Angeles
+3504	240259	Chicago	Austin
+3505	117239	New York	San Francisco
+3506	42722	San Diego	Los Angeles
+3507	193848	Seattle	Los Angeles
+3508	6982	Houston	Los Angeles
+3509	7350	Atlanta	Austin
+3510	7350	Atlanta	Orleans
+3511	9230	Los Angeles	Austin
+3512	12344	San Francisco	Honolulu
+3513	166378	Los Angeles	Orleans
+3514	102004	San Diego	Washington, D.C.
+3515	248997	Los Angeles	Washington, D.C.
+3516	26794	Franklin	Austin
+3517	34407	New York	Washington, D.C.
+3518	34407	New York	Chicago
+3519	216088	Los Angeles	Orleans
+3520	216088	Los Angeles	Austin
+3521	44449	Los Angeles	Seattle
+3522	24322	Austin	New York
+3523	242250	Boston	Washington, D.C.
+3524	189893	Atlanta	Chicago
+3525	217977	New York	Honolulu
+3526	30120	Houston	New York
+3527	30122	Miami-Dade	Chicago
+3528	222020	Chicago	New York
+3529	182350	New York	Chicago
+3530	62028	San Francisco	New York
+3531	156947	Washington, D.C.	Miami-Dade
+3532	111128	Franklin	New York
+3533	111128	Franklin	Chicago
+3534	111124	New York	Portland
+3535	225491	Chicago	Austin
+3536	521	Houston	Austin
+3537	35731	Boston	Chicago
+3538	35731	Boston	San Francisco
+3539	93736	Washington, D.C.	New York
+3540	197375	New York	Miami-Dade
+3541	93730	Houston	New York
+3542	93730	Houston	San Francisco
+3543	165380	New York	Washington, D.C.
+3544	217024	New York	Baltimore
+3545	130368	Washington, D.C.	Miami-Dade
+3546	180264	New York	Washington, D.C.
+3547	18260	Philadelphia	Washington, D.C.
+3548	38453	Los Angeles	San Diego
+3549	241288	New York	San Francisco
+3550	31926	San Francisco	Chicago
+3551	9887	New York	Austin
+3552	9887	New York	Seattle
+3553	98744	San Diego	Honolulu
+3554	145186	Atlanta	Orleans
+3555	221132	New York	Boston
+3556	21046	Minneapolis	Chicago
+3557	21046	Minneapolis	New York
+3558	32175	New York	Austin
+3559	32175	New York	Washington, D.C.
+3560	181138	New York	Washington, D.C.
+3561	158202	Chicago	Orleans
+3562	158202	Chicago	Washington, D.C.
+3563	43918	Chicago	Milwaukee
+3564	43918	Chicago	Los Angeles
+3565	2362	New York	Washington, D.C.
+3566	86935	New York	Los Angeles
+3567	4684	Los Angeles	Austin
+3568	4684	Los Angeles	New York
+3569	209317	Chicago	New York
+3570	162422	Atlanta	New York
+3571	79935	New York	Washington, D.C.
+3572	166494	Boston	New York
+3573	57179	Philadelphia	Los Angeles
+3574	231985	San Francisco	Austin
+3575	190700	Dallas	Los Angeles
+3576	164344	New York	Atlanta
+3577	5464	New York	Minneapolis
+3578	68053	Chicago	New York
+3579	167367	Los Angeles	New York
+3580	143937	New York	Austin
+3581	222606	Los Angeles	Austin
+3582	84799	Miami-Dade	Chicago
+3583	256332	Los Angeles	San Francisco
+3584	36675	Los Angeles	Philadelphia
+3585	83516	Chicago	San Diego
+3586	252820	San Francisco	Los Angeles
+3587	168100	New York	Orleans
+3588	143331	New York	Philadelphia
+3589	100743	Washington, D.C.	Boston
+3590	222278	Honolulu	San Francisco
+3591	179684	New York	Austin
+3592	41774	Austin	Dallas
+3593	57821	Portland	Seattle
+3594	137298	New York	Miami-Dade
+3595	8225	Chicago	New York
+3596	59468	New York	San Diego
+3597	15502	Chicago	Miami-Dade
+3598	15501	Houston	San Francisco
+3599	15501	Houston	Orleans
+3600	179974	New York	San Diego
+3601	147130	New York	Minneapolis
+3602	147139	Atlanta	Chicago
+3603	79453	Washington, D.C.	Austin
+3604	88425	Seattle	Chicago
+3605	111718	New York	Chicago
+3606	222853	San Francisco	New York
+3607	259916	Los Angeles	San Francisco
+3608	9852	Miami-Dade	New York
+3609	40734	Atlanta	Chicago
+3610	50571	Houston	Los Angeles
+3611	170193	Atlanta	Washington, D.C.
+3612	158077	Atlanta	Los Angeles
+3613	26423	New York	Austin
+3614	26423	New York	Minneapolis
+3615	26423	New York	Baltimore
+3616	12446	Baltimore	Orleans
+3617	28459	Los Angeles	San Francisco
+3618	207435	Austin	San Francisco
+3619	55435	Los Angeles	Chicago
+3620	207174	Chicago	Boston
+3621	221915	New York	Orleans
+3622	145245	Austin	San Francisco
+3623	230808	New York	Philadelphia
+3624	132602	New York	Austin
+3625	132602	New York	Miami-Dade
+3626	103854	Los Angeles	Chicago
+3627	253464	Washington, D.C.	San Francisco
+3628	256945	Los Angeles	New York
+3629	260564	San Diego	Honolulu
+3630	25796	Miami-Dade	New York
+3631	215132	Washington, D.C.	New York
+3632	215132	Washington, D.C.	San Francisco
+3633	35450	Houston	New York
+3634	35450	Houston	Orleans
+3635	35450	Houston	San Francisco
+3636	154232	New York	Chicago
+3637	201874	Miami-Dade	Los Angeles
+3638	25245	Chicago	Orleans
+3639	25245	Chicago	New York
+3640	183865	New York	Boston
+3641	135387	Boston	Los Angeles
+3642	17214	Miami-Dade	New York
+3643	17210	Boston	San Francisco
+3644	17210	Boston	New York
+3645	205370	New York	Boston
+3646	2648	New York	Minneapolis
+3647	218482	New York	Miami-Dade
+3648	90351	Chicago	Miami-Dade
+3649	243329	New York	San Francisco
+3650	149187	New York	Washington, D.C.
+3651	236613	Chicago	New York
+3652	236613	Chicago	Los Angeles
+3653	173502	New York	Dallas
+3654	37604	New York	Orleans
+3655	9077	Dallas	Houston
+3656	42877	Chicago	Washington, D.C.
+3657	42877	Chicago	San Francisco
+3658	21561	New York	Chicago
+3659	152171	Milwaukee	Chicago
+3660	63393	New York	Miami-Dade
+3661	63393	New York	Los Angeles
+3662	170974	New York	Seattle
+3663	3558	San Francisco	Seattle
+3664	209286	Chicago	New York
+3665	193863	New York	Austin
+3666	193862	Boston	New York
+3667	164452	Franklin	New York
+3668	135732	New York	Orleans
+3669	202213	Minneapolis	Chicago
+3670	153931	Boston	San Francisco
+3671	64831	San Francisco	Los Angeles
+3672	5300	New York	San Francisco
+3673	238044	Milwaukee	Chicago
+3674	263818	San Francisco	Austin
+3675	30452	New York	Austin
+3676	263429	New York	Austin
+3677	108579	San Diego	Honolulu
+3678	256166	New York	Portland
+3679	27531	Los Angeles	San Francisco
+3680	122346	Los Angeles	New York
+3681	91023	New York	Austin
+3682	156929	Atlanta	New York
+3683	188278	Houston	Los Angeles
+3684	241967	Los Angeles	New York
+3685	23547	San Francisco	San Diego
+3686	5777	Houston	New York
+3687	23544	Chicago	Milwaukee
+3688	155008	Franklin	New York
+3689	143818	Miami-Dade	New York
+3690	23321	San Francisco	San Diego
+3691	15247	Miami-Dade	New York
+3692	228572	San Francisco	Austin
+3693	50908	Minneapolis	New York
+3694	224299	New York	Honolulu
+3695	174319	Chicago	New York
+3696	88743	Boston	New York
+3697	240713	Chicago	New York
+3698	21029	Baltimore	Orleans
+3699	21029	New York	Philadelphia
+3700	81270	Baltimore	New York
+3701	2343	Washington, D.C.	Miami-Dade
+3702	249650	Minneapolis	New York
+3703	21974	New York	Los Angeles
+3704	1887	New York	Austin
+3705	106414	New York	Los Angeles
+3706	199015	San Francisco	Austin
+3707	11719	New York	Austin
+3708	235732	New York	Boston
+3709	235732	New York	Chicago
+3710	67029	New York	Los Angeles
+3711	62548	Boston	Austin
+3712	122648	New York	Washington, D.C.
+3713	64065	Atlanta	Los Angeles
+3714	64060	San Diego	Washington, D.C.
+3715	211180	New York	San Francisco
+3716	177737	Los Angeles	San Francisco
+3717	210586	Boston	Chicago
+3718	63495	Miami-Dade	Los Angeles
+3719	41318	New York	Honolulu
+3720	206559	Los Angeles	San Francisco
+3721	248063	New York	Austin
+3722	213173	New York	San Francisco
+3723	48775	New York	Miami-Dade
+3724	6851	New York	Miami-Dade
+3725	48779	New York	Boston
+3726	196600	New York	Washington, D.C.
+3727	129068	Boston	Washington, D.C.
+3728	218699	New York	Miami-Dade
+3729	57844	Minneapolis	Chicago
+3730	30663	Chicago	Boston
+3731	30663	Chicago	New York
+3732	107728	Seattle	San Francisco
+3733	109815	New York	Chicago
+3734	95025	Los Angeles	San Diego
+3735	143305	New York	Austin
+3736	245370	New York	Austin
+3737	107352	Los Angeles	Portland
+3738	186324	New York	Miami-Dade
+3739	653	Los Angeles	Austin
+3740	209434	Washington, D.C.	Boston
+3741	142840	Los Angeles	Portland
+3742	142840	Los Angeles	New York
+3743	3888	Atlanta	Los Angeles
+3744	151282	Miami-Dade	Los Angeles
+3745	79473	Atlanta	Orleans
+3746	79473	Atlanta	Miami-Dade
+3747	11525	Dallas	Orleans
+3748	96599	Chicago	San Diego
+3749	89356	New York	Austin
+3750	253448	Baltimore	New York
+3751	183870	New York	Washington, D.C.
+3752	183870	New York	San Diego
+3753	46110	New York	Minneapolis
+3754	46110	New York	Austin
+3755	17186	New York	Washington, D.C.
+3756	196187	Chicago	San Francisco
+3757	27357	San Diego	Washington, D.C.
+3758	27357	San Diego	Honolulu
+3759	191407	Austin	New York
+3760	69153	New York	Los Angeles
+3761	69153	New York	San Francisco
+3762	64471	Miami-Dade	New York
+3763	191408	New York	Miami-Dade
+3764	74388	New York	Miami-Dade
+3765	74381	Atlanta	New York
+3766	70157	San Francisco	San Diego
+3767	70157	San Francisco	Washington, D.C.
+3768	32510	New York	Orleans
+3769	200186	New York	Austin
+3770	107444	New York	Chicago
+3771	107444	New York	Houston
+3772	46515	San Francisco	Seattle
+3773	46515	San Francisco	Austin
+3774	113599	San Francisco	San Diego
+3775	49583	Chicago	Miami-Dade
+3776	212847	New York	Los Angeles
+3777	65005	New York	Austin
+3778	64385	San Francisco	New York
+3779	141141	Washington, D.C.	Philadelphia
+3780	9098	New York	Philadelphia
+3781	44268	New York	Los Angeles
+3782	21581	New York	Miami-Dade
+3783	21581	New York	Seattle
+3784	158736	New York	Washington, D.C.
+3785	4494	Austin	San Francisco
+3786	86785	Los Angeles	New York
+3787	14608	Philadelphia	New York
+3788	106606	Dallas	New York
+3789	1835	Philadelphia	New York
+3790	85801	San Diego	Los Angeles
+3791	260230	New York	Los Angeles
+3792	13035	New York	San Diego
+3793	18724	Chicago	Washington, D.C.
+3794	78608	Chicago	New York
+3795	78608	Chicago	Boston
+3796	78609	New York	Philadelphia
+3797	143368	New York	Philadelphia
+3798	78607	New York	Washington, D.C.
+3799	225459	Washington, D.C.	New York
+3800	218572	Boston	New York
+3801	147679	Atlanta	Washington, D.C.
+3802	45539	Los Angeles	Atlanta
+3803	66522	Chicago	Seattle
+3804	147683	Chicago	New York
+3805	77958	New York	Miami-Dade
+3806	263156	Los Angeles	Miami-Dade
+3807	2409	San Francisco	Seattle
+3808	2409	San Francisco	Los Angeles
+3809	2409	San Francisco	Portland
+3810	2409	San Francisco	New York
+3811	77951	New York	Austin
+3812	77951	New York	Philadelphia
+3813	136286	Los Angeles	San Diego
+3814	119797	New York	San Francisco
+3815	47182	Houston	New York
+3816	155280	San Francisco	New York
+3817	122859	Chicago	New York
+3818	87557	New York	Philadelphia
+3819	48456	New York	Chicago
+3820	48456	New York	Philadelphia
+3821	48456	New York	Orleans
+3822	48456	New York	Minneapolis
+3823	256577	New York	Chicago
+3824	58441	New York	Houston
+3825	50386	Los Angeles	New York
+3826	239271	Washington, D.C.	New York
+3827	12600	New York	Austin
+3828	212227	New York	Los Angeles
+3829	259707	Washington, D.C.	Chicago
+3830	69430	Chicago	San Francisco
+3831	92063	New York	Washington, D.C.
+3832	154736	Chicago	Milwaukee
+3833	92069	Washington, D.C.	New York
+3834	100609	New York	Washington, D.C.
+3835	190752	Philadelphia	Baltimore
+3836	224415	Seattle	San Francisco
+3837	13637	New York	Orleans
+3838	49986	New York	Austin
+3839	201110	New York	San Francisco
+3840	55044	New York	San Francisco
+3841	46322	New York	Minneapolis
+3842	46322	New York	Dallas
+3843	205725	New York	Washington, D.C.
+3844	199668	Washington, D.C.	Chicago
+3845	43665	New York	Austin
+3846	194211	New York	Austin
+3847	239169	Baltimore	New York
+3848	186347	Washington, D.C.	Orleans
+3849	172001	San Francisco	San Diego
+3850	172001	San Francisco	New York
+3851	235575	Houston	Los Angeles
+3852	235578	Los Angeles	Boston
+3853	235578	Los Angeles	San Diego
+3854	90044	Dallas	Orleans
+3855	80697	New York	San Diego
+3856	48577	Boston	Miami-Dade
+3857	170298	New York	Philadelphia
+3858	143819	Chicago	Los Angeles
+3859	260068	Houston	Austin
+3860	133770	Los Angeles	New York
+3861	133776	New York	Los Angeles
+3862	176497	Dallas	Austin
+3863	241987	New York	Austin
+3864	78450	New York	Boston
+3865	15786	Portland	Seattle
+3866	54387	Atlanta	Austin
+3867	33665	Philadelphia	New York
+3868	56797	Dallas	New York
+3869	56797	Dallas	Los Angeles
+3870	97893	Chicago	New York
+3871	115787	Los Angeles	San Francisco
+3872	30641	New York	Miami-Dade
+3873	44094	Chicago	New York
+3874	7647	Franklin	New York
+3875	226316	Baltimore	New York
+3876	119180	Minneapolis	Chicago
+3877	183431	New York	Boston
+3878	17111	Los Angeles	New York
+3879	14419	New York	Miami-Dade
+3880	72116	Franklin	New York
+3881	1292	New York	Orleans
+3882	72119	Atlanta	Miami-Dade
+3883	169908	New York	Baltimore
+3884	169908	New York	Austin
+3885	169908	New York	Seattle
+3886	170334	Los Angeles	San Diego
+3887	170334	Los Angeles	New York
+3888	34143	Seattle	San Francisco

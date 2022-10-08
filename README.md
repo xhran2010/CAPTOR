@@ -15,6 +15,9 @@ If you use our codes in your research, please cite:
   year={2022}
 }
 ```
+## Data
+We have released the travel behavior dataset US which is generated based on the [Foursquare](https://sites.google.com/site/yangdingqi/home/foursquare-dataset) dataset.
+You can run the model with the US out-of-town data provided in the "dataset" folder.
 
 ## Requirements
 - python 3.x

@@ -28,15 +28,15 @@ import pickle
 def main():
     parser = argparse.ArgumentParser()
     # dataset arguments
-    parser.add_argument('--ori_data', type=str, default='./dataset/home.txt')
-    parser.add_argument('--dst_data', type=str, default='./dataset/oot.txt')
-    parser.add_argument('--trans_data', type=str, default='./dataset/travel.txt')
+    parser.add_argument('--ori_data', type=str, default='../dataset/home.txt')
+    parser.add_argument('--dst_data', type=str, default='../dataset/oot.txt')
+    parser.add_argument('--trans_data', type=str, default='../dataset/travel.txt')
     parser.add_argument('--feat_path', type=str, default='./feat')
     parser.add_argument('--save_path', type=str, default='./model_save')
     parser.add_argument("--best_save", action="store_true")
-    parser.add_argument("--pp_graph_path", type=str, default="./graph/pp_adj_3.npz")
+    parser.add_argument("--pp_graph_path", type=str, default="../dataset/pp_adj_1.npz")
     parser.add_argument('--test_path', type=str)
-    parser.add_argument('--data_split_path', type=str, default='./data_split/cn.npy')
+    parser.add_argument('--data_split_path', type=str, default='./data_split/us.npy')
     # training configurations
     parser.add_argument('--mode', type=str, default='train')
     parser.add_argument('--train_batch', type=int, default=64)
